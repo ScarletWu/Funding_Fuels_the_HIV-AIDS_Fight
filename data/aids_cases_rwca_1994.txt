@@ -1,0 +1,145 @@
+"Notes"	"Location"	"Location Code"	Cases
+	"Akron, OH"	"0080"	310
+	"Albany-Schenectady, NY"	"0160"	990
+	"Albuquerque, N.M."	"0200"	642
+	"Allentown, PA"	"0240"	452
+	"Ann Arbor, MI"	"0440"	246
+	"Atlanta, GA"	"0520"	9530
+	"Austin, TX"	"0640"	2422
+	"Bakersfield, CA"	"0680"	505
+	"Baltimore, MD"	"0720"	7614
+	"Baton Rouge, LA"	"0760"	775
+	"Bergen-Passaic, NJ"	"0875"	3537
+	"Birmingham, AL"	"1000"	1010
+	"Boston, MA"	"1123"	8808
+	"Buffalo, NY"	"1280"	880
+	"Charleston, SC"	"1440"	859
+	"Charlotte, NC"	"1520"	1190
+	"Chicago, IL"	"1600"	13149
+	"Cincinnati, OH"	"1640"	1190
+	"Cleveland, OH"	"1680"	1996
+	"Colorado Springs, CO"	"1720"	280
+	"Columbia, SC"	"1760"	977
+	"Columbus, OH"	"1840"	1488
+	"Dallas, TX"	"1920"	7826
+	"Dayton, OH"	"2000"	608
+	"Daytona Beach, FL"	"2020"	635
+	"Denver, CO"	"2080"	3857
+	"Detroit, MI"	"2160"	4635
+	"El Paso, TX"	"2320"	469
+	"Fort Lauderdale, FL"	"2680"	7199
+	"Fort Wayne, IN"	"2760"	155
+	"Fort Worth, TX"	"2800"	2037
+	"Fresno, CA"	"2840"	693
+	"Gary, IN"	"2960"	392
+	"Grand Rapids, MI"	"3000"	473
+	"Greensboro, NC"	"3120"	996
+	"Greenvile, SC"	"3160"	770
+	"Harrisburg, PA"	"3240"	507
+	"Hartford, CT"	"3283"	2168
+	"Honolulu, HI"	"3320"	1215
+	"Houston, TX"	"3360"	11826
+	"Indianapolis, IN"	"3480"	1686
+	"Jacksonville, FL"	"3600"	2640
+	"Jersey City, NJ"	"3640"	4317
+	"Kansas City, MO"	"3760"	2654
+	"Knoxville, TN"	"3840"	391
+	"Las Vegas, NV"	"4120"	1737
+	"Little Rock, AR"	"4400"	614
+	"Los Angeles, CA"	"4480"	28475
+	"Louisville, KY"	"4520"	728
+	"McAllen-Edinburg-Mission, TX"	"4880"	172
+	"Memphis, TN"	"4920"	1434
+	"Miami, FL"	"5000"	14147
+	"Middlesex, NJ"	"5015"	2050
+	"Milwaukee, WI"	"5080"	1173
+	"Minneapolis-St Paul, MN"	"5120"	2122
+	"Mobile, Al"	"5160"	655
+	"Monmouth-Ocean City, NJ"	"5190"	1807
+	"Nashville, TN"	"5360"	1243
+	"Nassau-Suffolk, NY"	"5380"	4171
+	"New Haven, CT"	"5483"	3823
+	"New Orleans, LA"	"5560"	4052
+	"New York, NY"	"5600"	74610
+	"Newark, NJ"	"5640"	10652
+	"Norfolk, VA"	"5720"	1799
+	"Oakland, CA"	"5775"	5495
+	"Oklahoma City, OK"	"5880"	1047
+	"Omaha, NE"	"5920"	429
+	"Orange County, CA"	"5945"	3689
+	"Orlando, FL"	"5960"	3226
+	"Philadelphia, PA"	"6160"	10526
+	"Phoenix, AZ"	"6200"	3013
+	"Pittsburgh, PA"	"6280"	1565
+	"Portland, OR"	"6440"	2585
+	"Providence, RI"	"6483"	1198
+	"Raleigh-Durham, NC"	"6640"	1185
+	"Richmond, VA"	"6760"	1413
+	"Riverside-S Berndino, CA"	"6780"	4247
+	"Rochester, NY"	"6840"	1229
+	"Sacramento, CA"	"6920"	2153
+	"Saint Louis, MO"	"7040"	2909
+	"Salt Lake City, UT"	"7160"	931
+	"San Antonio, TX"	"7240"	2362
+	"San Diego, CA"	"7320"	6738
+	"San Francisco, CA"	"7360"	21271
+	"San Jose, CA"	"7400"	2104
+	"San Juan, PR"	"7440"	9363
+	"Sarasota, FL"	"7510"	846
+	"Scranton, PA"	"7560"	261
+	"Seattle, WA"	"7600"	4598
+	"Springfield, MA"	"8003"	936
+	"Stockton, CA"	"8120"	459
+	"Syracuse, NY"	"8160"	709
+	"Tacoma, WA"	"8200"	496
+	"Tampa-Saint Petersburg, FL"	"8280"	4938
+	"Toledo, OH"	"8400"	355
+	"Tucson, AZ"	"8520"	892
+	"Tulsa, OK"	"8560"	667
+	"Vallejo-Fairfield-Napa, CA"	"8720"	839
+	"Ventura, CA"	"8735"	483
+	"Washington, DC"	"8840"	13381
+	"West Palm Beach, FL"	"8960"	4026
+	"Wichita, KS"	"9040"	411
+	"Wilmington, DE"	"9160"	986
+	"Youngstown, OH"	"9320"	214
+"Total"			396638
+"---"
+"Dataset: AIDS Public Use (Vintage 2002)"
+"Query Parameters:"
+"Date Diagnosed: Before 1982; 1982; 1983; 1984; 1985; 1986; 1987; 1988; 1989; 1990; 1991; 1992; 1993; 1994"
+"Date Reported: Before 1982; 1982; 1983; 1984; 1985; 1986; 1987; 1988; 1989; 1990; 1991; 1992; 1993; 1994; 1995"
+"Location: Akron, OH; Albany-Schenectady, NY; Albuquerque, N.M.; Allentown, PA; Ann Arbor, MI; Atlanta, GA; Austin, TX;"
+"Bakersfield, CA; Baltimore, MD; Baton Rouge, LA; Bergen-Passaic, NJ; Birmingham, AL; Boston, MA; Buffalo, NY; Charleston, SC;"
+"Charlotte, NC; Chicago, IL; Cincinnati, OH; Cleveland, OH; Colorado Springs, CO; Columbia, SC; Columbus, OH; Dallas, TX; Dayton,"
+"OH; Daytona Beach, FL; Denver, CO; Detroit, MI; El Paso, TX; Fort Lauderdale, FL; Fort Wayne, IN; Fort Worth, TX; Fresno, CA;"
+"Gary, IN; Grand Rapids, MI; Greensboro, NC; Greenvile, SC; Harrisburg, PA; Hartford, CT; Honolulu, HI; Houston, TX;"
+"Indianapolis, IN; Jacksonville, FL; Jersey City, NJ; Kansas City, MO; Knoxville, TN; Las Vegas, NV; Little Rock, AR; Los"
+"Angeles, CA; Louisville, KY; McAllen-Edinburg-Mission, TX; Memphis, TN; Miami, FL; Middlesex, NJ; Milwaukee, WI; Minneapolis-St"
+"Paul, MN; Mobile, Al; Monmouth-Ocean City, NJ; Nashville, TN; Nassau-Suffolk, NY; New Haven, CT; New Orleans, LA; New York, NY;"
+"Newark, NJ; Norfolk, VA; Oakland, CA; Oklahoma City, OK; Omaha, NE; Orange County, CA; Orlando, FL; Philadelphia, PA; Phoenix,"
+"AZ; Pittsburgh, PA; Portland, OR; Providence, RI; Raleigh-Durham, NC; Richmond, VA; Riverside-S Berndino, CA; Rochester, NY;"
+"Sacramento, CA; Saint Louis, MO; Salt Lake City, UT; San Antonio, TX; San Diego, CA; San Francisco, CA; San Jose, CA; San Juan,"
+"PR; Sarasota, FL; Scranton, PA; Seattle, WA; Springfield, MA; Stockton, CA; Syracuse, NY; Tacoma, WA; Tampa-Saint Petersburg,"
+"FL; Toledo, OH; Tucson, AZ; Tulsa, OK; Vallejo-Fairfield-Napa, CA; Ventura, CA; Washington, DC; West Palm Beach, FL; Wichita,"
+"KS; Wilmington, DE; Youngstown, OH"
+"Group By: Location"
+"Show Totals: True"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/aids.html for more information."
+"---"
+"Query Date: Oct 13, 2022 11:33:59 AM"
+"---"
+"Suggested Citation: US Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention (CDC),"
+"National Center for HIV, STD and TB Prevention (NCHSTP), AIDS Public Information Data Set (APIDS) US Surveillance Data for"
+"1981-2002, CDC WONDER On-line Database, December 2005. Accessed at http://wonder.cdc.gov/aids-v2002.html on Oct 13, 2022"
+"11:33:59 AM"
+"---"
+Caveats:
+"1. About Metropolitan areas and Regions: Metropolitan area of residence at the time of diagnosis of AIDS is identified for"
+"adult/adolescent patients residing in MSAs with 500,000 or more population. For adult/adolescent patients residing in an MSA"
+"with less than 500,000 population, in a non-metropolitan area, or whose metropolitan area of residence is unknown, and for all"
+"pediatric patients, Region of residence is identified."
+"2. Only the metropolitan areas are displayed on the maps. Although regions are not displayed on the maps, regional data are"
+"included in the quantile distributions when regions are included in the data results."

@@ -1,0 +1,145 @@
+"Notes"	"Location"	"Location Code"	Cases
+	"Akron, OH"	"0080"	7
+	"Albany-Schenectady, NY"	"0160"	45
+	"Albuquerque, N.M."	"0200"	35
+	"Allentown, PA"	"0240"	37
+	"Ann Arbor, MI"	"0440"	23
+	"Atlanta, GA"	"0520"	794
+	"Austin, TX"	"0640"	174
+	"Bakersfield, CA"	"0680"	86
+	"Baltimore, MD"	"0720"	788
+	"Baton Rouge, LA"	"0760"	74
+	"Bergen-Passaic, NJ"	"0875"	258
+	"Birmingham, AL"	"1000"	112
+	"Boston, MA"	"1123"	520
+	"Buffalo, NY"	"1280"	10
+	"Charleston, SC"	"1440"	104
+	"Charlotte, NC"	"1520"	105
+	"Chicago, IL"	"1600"	942
+	"Cincinnati, OH"	"1640"	82
+	"Cleveland, OH"	"1680"	190
+	"Colorado Springs, CO"	"1720"	32
+	"Columbia, SC"	"1760"	140
+	"Columbus, OH"	"1840"	96
+	"Dallas, TX"	"1920"	777
+	"Dayton, OH"	"2000"	30
+	"Daytona Beach, FL"	"2020"	57
+	"Denver, CO"	"2080"	353
+	"Detroit, MI"	"2160"	426
+	"El Paso, TX"	"2320"	75
+	"Fort Lauderdale, FL"	"2680"	725
+	"Fort Wayne, IN"	"2760"	17
+	"Fort Worth, TX"	"2800"	105
+	"Fresno, CA"	"2840"	88
+	"Gary, IN"	"2960"	38
+	"Grand Rapids, MI"	"3000"	46
+	"Greensboro, NC"	"3120"	81
+	"Greenvile, SC"	"3160"	102
+	"Harrisburg, PA"	"3240"	39
+	"Hartford, CT"	"3283"	304
+	"Honolulu, HI"	"3320"	95
+	"Houston, TX"	"3360"	557
+	"Indianapolis, IN"	"3480"	156
+	"Jacksonville, FL"	"3600"	228
+	"Jersey City, NJ"	"3640"	354
+	"Kansas City, MO"	"3760"	204
+	"Knoxville, TN"	"3840"	44
+	"Las Vegas, NV"	"4120"	290
+	"Little Rock, AR"	"4400"	63
+	"Los Angeles, CA"	"4480"	1746
+	"Louisville, KY"	"4520"	80
+	"McAllen-Edinburg-Mission, TX"	"4880"	15
+	"Memphis, TN"	"4920"	224
+	"Miami, FL"	"5000"	1592
+	"Middlesex, NJ"	"5015"	193
+	"Milwaukee, WI"	"5080"	163
+	"Minneapolis-St Paul, MN"	"5120"	231
+	"Mobile, Al"	"5160"	77
+	"Monmouth-Ocean City, NJ"	"5190"	221
+	"Nashville, TN"	"5360"	190
+	"Nassau-Suffolk, NY"	"5380"	237
+	"New Haven, CT"	"5483"	360
+	"New Orleans, LA"	"5560"	318
+	"New York, NY"	"5600"	4682
+	"Newark, NJ"	"5640"	837
+	"Norfolk, VA"	"5720"	211
+	"Oakland, CA"	"5775"	373
+	"Oklahoma City, OK"	"5880"	78
+	"Omaha, NE"	"5920"	48
+	"Orange County, CA"	"5945"	336
+	"Orlando, FL"	"5960"	393
+	"Philadelphia, PA"	"6160"	895
+	"Phoenix, AZ"	"6200"	177
+	"Pittsburgh, PA"	"6280"	140
+	"Portland, OR"	"6440"	236
+	"Providence, RI"	"6483"	89
+	"Raleigh-Durham, NC"	"6640"	95
+	"Richmond, VA"	"6760"	171
+	"Riverside-S Berndino, CA"	"6780"	298
+	"Rochester, NY"	"6840"	73
+	"Sacramento, CA"	"6920"	96
+	"Saint Louis, MO"	"7040"	236
+	"Salt Lake City, UT"	"7160"	91
+	"San Antonio, TX"	"7240"	258
+	"San Diego, CA"	"7320"	521
+	"San Francisco, CA"	"7360"	1156
+	"San Jose, CA"	"7400"	163
+	"San Juan, PR"	"7440"	635
+	"Sarasota, FL"	"7510"	83
+	"Scranton, PA"	"7560"	20
+	"Seattle, WA"	"7600"	296
+	"Springfield, MA"	"8003"	88
+	"Stockton, CA"	"8120"	43
+	"Syracuse, NY"	"8160"	20
+	"Tacoma, WA"	"8200"	40
+	"Tampa-Saint Petersburg, FL"	"8280"	487
+	"Toledo, OH"	"8400"	17
+	"Tucson, AZ"	"8520"	30
+	"Tulsa, OK"	"8560"	74
+	"Vallejo-Fairfield-Napa, CA"	"8720"	78
+	"Ventura, CA"	"8735"	47
+	"Washington, DC"	"8840"	1017
+	"West Palm Beach, FL"	"8960"	498
+	"Wichita, KS"	"9040"	39
+	"Wilmington, DE"	"9160"	177
+	"Youngstown, OH"	"9320"	17
+"Total"			30914
+"---"
+"Dataset: AIDS Public Use (Vintage 2002)"
+"Query Parameters:"
+"Date Diagnosed: 1995"
+"Date Reported: 1995"
+"Location: Akron, OH; Albany-Schenectady, NY; Albuquerque, N.M.; Allentown, PA; Ann Arbor, MI; Atlanta, GA; Austin, TX;"
+"Bakersfield, CA; Baltimore, MD; Baton Rouge, LA; Bergen-Passaic, NJ; Birmingham, AL; Boston, MA; Buffalo, NY; Charleston, SC;"
+"Charlotte, NC; Chicago, IL; Cincinnati, OH; Cleveland, OH; Colorado Springs, CO; Columbia, SC; Columbus, OH; Dallas, TX; Dayton,"
+"OH; Daytona Beach, FL; Denver, CO; Detroit, MI; El Paso, TX; Fort Lauderdale, FL; Fort Wayne, IN; Fort Worth, TX; Fresno, CA;"
+"Gary, IN; Grand Rapids, MI; Greensboro, NC; Greenvile, SC; Harrisburg, PA; Hartford, CT; Honolulu, HI; Houston, TX;"
+"Indianapolis, IN; Jacksonville, FL; Jersey City, NJ; Kansas City, MO; Knoxville, TN; Las Vegas, NV; Little Rock, AR; Los"
+"Angeles, CA; Louisville, KY; McAllen-Edinburg-Mission, TX; Memphis, TN; Miami, FL; Middlesex, NJ; Milwaukee, WI; Minneapolis-St"
+"Paul, MN; Mobile, Al; Monmouth-Ocean City, NJ; Nashville, TN; Nassau-Suffolk, NY; New Haven, CT; New Orleans, LA; New York, NY;"
+"Newark, NJ; Norfolk, VA; Oakland, CA; Oklahoma City, OK; Omaha, NE; Orange County, CA; Orlando, FL; Philadelphia, PA; Phoenix,"
+"AZ; Pittsburgh, PA; Portland, OR; Providence, RI; Raleigh-Durham, NC; Richmond, VA; Riverside-S Berndino, CA; Rochester, NY;"
+"Sacramento, CA; Saint Louis, MO; Salt Lake City, UT; San Antonio, TX; San Diego, CA; San Francisco, CA; San Jose, CA; San Juan,"
+"PR; Sarasota, FL; Scranton, PA; Seattle, WA; Springfield, MA; Stockton, CA; Syracuse, NY; Tacoma, WA; Tampa-Saint Petersburg,"
+"FL; Toledo, OH; Tucson, AZ; Tulsa, OK; Vallejo-Fairfield-Napa, CA; Ventura, CA; Washington, DC; West Palm Beach, FL; Wichita,"
+"KS; Wilmington, DE; Youngstown, OH"
+"Group By: Location"
+"Show Totals: True"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/aids.html for more information."
+"---"
+"Query Date: Oct 12, 2022 3:26:22 PM"
+"---"
+"Suggested Citation: US Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention (CDC),"
+"National Center for HIV, STD and TB Prevention (NCHSTP), AIDS Public Information Data Set (APIDS) US Surveillance Data for"
+"1981-2002, CDC WONDER On-line Database, December 2005. Accessed at http://wonder.cdc.gov/aids-v2002.html on Oct 12, 2022 3:26:22"
+"PM"
+"---"
+Caveats:
+"1. About Metropolitan areas and Regions: Metropolitan area of residence at the time of diagnosis of AIDS is identified for"
+"adult/adolescent patients residing in MSAs with 500,000 or more population. For adult/adolescent patients residing in an MSA"
+"with less than 500,000 population, in a non-metropolitan area, or whose metropolitan area of residence is unknown, and for all"
+"pediatric patients, Region of residence is identified."
+"2. Only the metropolitan areas are displayed on the maps. Although regions are not displayed on the maps, regional data are"
+"included in the quantile distributions when regions are included in the data results."
