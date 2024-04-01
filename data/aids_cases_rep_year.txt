@@ -1,0 +1,1720 @@
+"Notes"	"Year Reported"	"Year Reported Code"	"Location"	"Location Code"	Cases
+	"1987"	"1987"	"Akron, OH"	"0080"	15
+	"1987"	"1987"	"Albany-Schenectady, NY"	"0160"	37
+	"1987"	"1987"	"Albuquerque, N.M."	"0200"	30
+	"1987"	"1987"	"Allentown, PA"	"0240"	14
+	"1987"	"1987"	"Ann Arbor, MI"	"0440"	9
+	"1987"	"1987"	"Atlanta, GA"	"0520"	369
+	"1987"	"1987"	"Austin, TX"	"0640"	87
+	"1987"	"1987"	"Bakersfield, CA"	"0680"	14
+	"1987"	"1987"	"Baltimore, MD"	"0720"	221
+	"1987"	"1987"	"Baton Rouge, LA"	"0760"	21
+	"1987"	"1987"	"Bergen-Passaic, NJ"	"0875"	215
+	"1987"	"1987"	"Birmingham, AL"	"1000"	40
+	"1987"	"1987"	"Boston, MA"	"1123"	412
+	"1987"	"1987"	"Buffalo, NY"	"1280"	26
+	"1987"	"1987"	"Charleston, SC"	"1440"	18
+	"1987"	"1987"	"Charlotte, NC"	"1520"	50
+	"1987"	"1987"	"Chicago, IL"	"1600"	568
+	"1987"	"1987"	"Cincinnati, OH"	"1640"	57
+	"1987"	"1987"	"Cleveland, OH"	"1680"	98
+	"1987"	"1987"	"Colorado Springs, CO"	"1720"	7
+	"1987"	"1987"	"Columbia, SC"	"1760"	11
+	"1987"	"1987"	"Columbus, OH"	"1840"	67
+	"1987"	"1987"	"Dallas, TX"	"1920"	493
+	"1987"	"1987"	"Dayton, OH"	"2000"	33
+	"1987"	"1987"	"Daytona Beach, FL"	"2020"	22
+	"1987"	"1987"	"Denver, CO"	"2080"	187
+	"1987"	"1987"	"Detroit, MI"	"2160"	136
+	"1987"	"1987"	"El Paso, TX"	"2320"	16
+	"1987"	"1987"	"Fort Lauderdale, FL"	"2680"	289
+	"1987"	"1987"	"Fort Wayne, IN"	"2760"	14
+	"1987"	"1987"	"Fort Worth, TX"	"2800"	86
+	"1987"	"1987"	"Fresno, CA"	"2840"	21
+	"1987"	"1987"	"Gary, IN"	"2960"	9
+	"1987"	"1987"	"Grand Rapids, MI"	"3000"	17
+	"1987"	"1987"	"Greensboro, NC"	"3120"	32
+	"1987"	"1987"	"Greenvile, SC"	"3160"	18
+	"1987"	"1987"	"Harrisburg, PA"	"3240"	27
+	"1987"	"1987"	"Hartford, CT"	"3283"	69
+	"1987"	"1987"	"Honolulu, HI"	"3320"	68
+	"1987"	"1987"	"Houston, TX"	"3360"	697
+	"1987"	"1987"	"Indianapolis, IN"	"3480"	59
+	"1987"	"1987"	"Jacksonville, FL"	"3600"	95
+	"1987"	"1987"	"Jersey City, NJ"	"3640"	256
+	"1987"	"1987"	"Kansas City, MO"	"3760"	129
+	"1987"	"1987"	"Knoxville, TN"	"3840"	13
+	"1987"	"1987"	"Las Vegas, NV"	"4120"	68
+	"1987"	"1987"	"Little Rock, AR"	"4400"	23
+	"1987"	"1987"	"Los Angeles, CA"	"4480"	1818
+	"1987"	"1987"	"Louisville, KY"	"4520"	19
+	"1987"	"1987"	"McAllen-Edinburg-Mission, TX"	"4880"	5
+	"1987"	"1987"	"Memphis, TN"	"4920"	28
+	"1987"	"1987"	"Miami, FL"	"5000"	474
+	"1987"	"1987"	"Middlesex, NJ"	"5015"	118
+	"1987"	"1987"	"Milwaukee, WI"	"5080"	59
+	"1987"	"1987"	"Minneapolis-St Paul, MN"	"5120"	109
+	"1987"	"1987"	"Mobile, Al"	"5160"	37
+	"1987"	"1987"	"Monmouth-Ocean City, NJ"	"5190"	81
+	"1987"	"1987"	"Nashville, TN"	"5360"	11
+	"1987"	"1987"	"Nassau-Suffolk, NY"	"5380"	200
+	"1987"	"1987"	"New Haven, CT"	"5483"	159
+	"1987"	"1987"	"New Orleans, LA"	"5560"	237
+	"1987"	"1987"	"New York, NY"	"5600"	3393
+	"1987"	"1987"	"Newark, NJ"	"5640"	626
+	"1987"	"1987"	"Norfolk, VA"	"5720"	59
+	"1987"	"1987"	"Oakland, CA"	"5775"	343
+	"1987"	"1987"	"Oklahoma City, OK"	"5880"	56
+	"1987"	"1987"	"Omaha, NE"	"5920"	14
+	"1987"	"1987"	"Orange County, CA"	"5945"	248
+	"1987"	"1987"	"Orlando, FL"	"5960"	66
+	"1987"	"1987"	"Philadelphia, PA"	"6160"	501
+	"1987"	"1987"	"Phoenix, AZ"	"6200"	151
+	"1987"	"1987"	"Pittsburgh, PA"	"6280"	99
+	"1987"	"1987"	"Portland, OR"	"6440"	143
+	"1987"	"1987"	"Providence, RI"	"6483"	62
+	"1987"	"1987"	"Raleigh-Durham, NC"	"6640"	50
+	"1987"	"1987"	"Richmond, VA"	"6760"	48
+	"1987"	"1987"	"Riverside-S Berndino, CA"	"6780"	179
+	"1987"	"1987"	"Rochester, NY"	"6840"	46
+	"1987"	"1987"	"Sacramento, CA"	"6920"	110
+	"1987"	"1987"	"Saint Louis, MO"	"7040"	91
+	"1987"	"1987"	"Salt Lake City, UT"	"7160"	34
+	"1987"	"1987"	"San Antonio, TX"	"7240"	58
+	"1987"	"1987"	"San Diego, CA"	"7320"	395
+	"1987"	"1987"	"San Francisco, CA"	"7360"	1545
+	"1987"	"1987"	"San Jose, CA"	"7400"	120
+	"1987"	"1987"	"San Juan, PR"	"7440"	139
+	"1987"	"1987"	"Sarasota, FL"	"7510"	16
+	"1987"	"1987"	"Scranton, PA"	"7560"	12
+	"1987"	"1987"	"Seattle, WA"	"7600"	248
+	"1987"	"1987"	"Springfield, MA"	"8003"	23
+	"1987"	"1987"	"Stockton, CA"	"8120"	23
+	"1987"	"1987"	"Syracuse, NY"	"8160"	17
+	"1987"	"1987"	"Tacoma, WA"	"8200"	19
+	"1987"	"1987"	"Tampa-Saint Petersburg, FL"	"8280"	167
+	"1987"	"1987"	"Toledo, OH"	"8400"	15
+	"1987"	"1987"	"Tucson, AZ"	"8520"	52
+	"1987"	"1987"	"Tulsa, OK"	"8560"	23
+	"1987"	"1987"	"Vallejo-Fairfield-Napa, CA"	"8720"	32
+	"1987"	"1987"	"Ventura, CA"	"8735"	24
+	"1987"	"1987"	"Washington, DC"	"8840"	763
+	"1987"	"1987"	"West Palm Beach, FL"	"8960"	197
+	"1987"	"1987"	"Wichita, KS"	"9040"	11
+	"1987"	"1987"	"Wilmington, DE"	"9160"	31
+	"1987"	"1987"	"Youngstown, OH"	"9320"	12
+"Total"	"1987"	"1987"			18879
+	"1988"	"1988"	"Akron, OH"	"0080"	26
+	"1988"	"1988"	"Albany-Schenectady, NY"	"0160"	61
+	"1988"	"1988"	"Albuquerque, N.M."	"0200"	34
+	"1988"	"1988"	"Allentown, PA"	"0240"	25
+	"1988"	"1988"	"Ann Arbor, MI"	"0440"	20
+	"1988"	"1988"	"Atlanta, GA"	"0520"	612
+	"1988"	"1988"	"Austin, TX"	"0640"	109
+	"1988"	"1988"	"Bakersfield, CA"	"0680"	22
+	"1988"	"1988"	"Baltimore, MD"	"0720"	320
+	"1988"	"1988"	"Baton Rouge, LA"	"0760"	36
+	"1988"	"1988"	"Bergen-Passaic, NJ"	"0875"	295
+	"1988"	"1988"	"Birmingham, AL"	"1000"	65
+	"1988"	"1988"	"Boston, MA"	"1123"	669
+	"1988"	"1988"	"Buffalo, NY"	"1280"	55
+	"1988"	"1988"	"Charleston, SC"	"1440"	41
+	"1988"	"1988"	"Charlotte, NC"	"1520"	65
+	"1988"	"1988"	"Chicago, IL"	"1600"	882
+	"1988"	"1988"	"Cincinnati, OH"	"1640"	68
+	"1988"	"1988"	"Cleveland, OH"	"1680"	128
+	"1988"	"1988"	"Colorado Springs, CO"	"1720"	21
+	"1988"	"1988"	"Columbia, SC"	"1760"	35
+	"1988"	"1988"	"Columbus, OH"	"1840"	121
+	"1988"	"1988"	"Dallas, TX"	"1920"	547
+	"1988"	"1988"	"Dayton, OH"	"2000"	43
+	"1988"	"1988"	"Daytona Beach, FL"	"2020"	35
+	"1988"	"1988"	"Denver, CO"	"2080"	254
+	"1988"	"1988"	"Detroit, MI"	"2160"	320
+	"1988"	"1988"	"El Paso, TX"	"2320"	18
+	"1988"	"1988"	"Fort Lauderdale, FL"	"2680"	357
+	"1988"	"1988"	"Fort Wayne, IN"	"2760"	5
+	"1988"	"1988"	"Fort Worth, TX"	"2800"	120
+	"1988"	"1988"	"Fresno, CA"	"2840"	41
+	"1988"	"1988"	"Gary, IN"	"2960"	8
+	"1988"	"1988"	"Grand Rapids, MI"	"3000"	24
+	"1988"	"1988"	"Greensboro, NC"	"3120"	42
+	"1988"	"1988"	"Greenvile, SC"	"3160"	19
+	"1988"	"1988"	"Harrisburg, PA"	"3240"	38
+	"1988"	"1988"	"Hartford, CT"	"3283"	104
+	"1988"	"1988"	"Honolulu, HI"	"3320"	86
+	"1988"	"1988"	"Houston, TX"	"3360"	902
+	"1988"	"1988"	"Indianapolis, IN"	"3480"	40
+	"1988"	"1988"	"Jacksonville, FL"	"3600"	161
+	"1988"	"1988"	"Jersey City, NJ"	"3640"	457
+	"1988"	"1988"	"Kansas City, MO"	"3760"	234
+	"1988"	"1988"	"Knoxville, TN"	"3840"	25
+	"1988"	"1988"	"Las Vegas, NV"	"4120"	87
+	"1988"	"1988"	"Little Rock, AR"	"4400"	31
+	"1988"	"1988"	"Los Angeles, CA"	"4480"	1884
+	"1988"	"1988"	"Louisville, KY"	"4520"	45
+	"1988"	"1988"	"McAllen-Edinburg-Mission, TX"	"4880"	1
+	"1988"	"1988"	"Memphis, TN"	"4920"	102
+	"1988"	"1988"	"Miami, FL"	"5000"	719
+	"1988"	"1988"	"Middlesex, NJ"	"5015"	186
+	"1988"	"1988"	"Milwaukee, WI"	"5080"	67
+	"1988"	"1988"	"Minneapolis-St Paul, MN"	"5120"	151
+	"1988"	"1988"	"Mobile, Al"	"5160"	42
+	"1988"	"1988"	"Monmouth-Ocean City, NJ"	"5190"	140
+	"1988"	"1988"	"Nashville, TN"	"5360"	129
+	"1988"	"1988"	"Nassau-Suffolk, NY"	"5380"	329
+	"1988"	"1988"	"New Haven, CT"	"5483"	260
+	"1988"	"1988"	"New Orleans, LA"	"5560"	249
+	"1988"	"1988"	"New York, NY"	"5600"	5760
+	"1988"	"1988"	"Newark, NJ"	"5640"	1042
+	"1988"	"1988"	"Norfolk, VA"	"5720"	84
+	"1988"	"1988"	"Oakland, CA"	"5775"	368
+	"1988"	"1988"	"Oklahoma City, OK"	"5880"	70
+	"1988"	"1988"	"Omaha, NE"	"5920"	35
+	"1988"	"1988"	"Orange County, CA"	"5945"	241
+	"1988"	"1988"	"Orlando, FL"	"5960"	186
+	"1988"	"1988"	"Philadelphia, PA"	"6160"	624
+	"1988"	"1988"	"Phoenix, AZ"	"6200"	224
+	"1988"	"1988"	"Pittsburgh, PA"	"6280"	101
+	"1988"	"1988"	"Portland, OR"	"6440"	151
+	"1988"	"1988"	"Providence, RI"	"6483"	76
+	"1988"	"1988"	"Raleigh-Durham, NC"	"6640"	62
+	"1988"	"1988"	"Richmond, VA"	"6760"	60
+	"1988"	"1988"	"Riverside-S Berndino, CA"	"6780"	180
+	"1988"	"1988"	"Rochester, NY"	"6840"	101
+	"1988"	"1988"	"Sacramento, CA"	"6920"	134
+	"1988"	"1988"	"Saint Louis, MO"	"7040"	167
+	"1988"	"1988"	"Salt Lake City, UT"	"7160"	67
+	"1988"	"1988"	"San Antonio, TX"	"7240"	227
+	"1988"	"1988"	"San Diego, CA"	"7320"	448
+	"1988"	"1988"	"San Francisco, CA"	"7360"	1687
+	"1988"	"1988"	"San Jose, CA"	"7400"	159
+	"1988"	"1988"	"San Juan, PR"	"7440"	737
+	"1988"	"1988"	"Sarasota, FL"	"7510"	50
+	"1988"	"1988"	"Scranton, PA"	"7560"	16
+	"1988"	"1988"	"Seattle, WA"	"7600"	242
+	"1988"	"1988"	"Springfield, MA"	"8003"	25
+	"1988"	"1988"	"Stockton, CA"	"8120"	29
+	"1988"	"1988"	"Syracuse, NY"	"8160"	41
+	"1988"	"1988"	"Tacoma, WA"	"8200"	23
+	"1988"	"1988"	"Tampa-Saint Petersburg, FL"	"8280"	369
+	"1988"	"1988"	"Toledo, OH"	"8400"	24
+	"1988"	"1988"	"Tucson, AZ"	"8520"	33
+	"1988"	"1988"	"Tulsa, OK"	"8560"	50
+	"1988"	"1988"	"Vallejo-Fairfield-Napa, CA"	"8720"	39
+	"1988"	"1988"	"Ventura, CA"	"8735"	41
+	"1988"	"1988"	"Washington, DC"	"8840"	812
+	"1988"	"1988"	"West Palm Beach, FL"	"8960"	281
+	"1988"	"1988"	"Wichita, KS"	"9040"	15
+	"1988"	"1988"	"Wilmington, DE"	"9160"	48
+	"1988"	"1988"	"Youngstown, OH"	"9320"	17
+"Total"	"1988"	"1988"			27158
+	"1989"	"1989"	"Akron, OH"	"0080"	23
+	"1989"	"1989"	"Albany-Schenectady, NY"	"0160"	62
+	"1989"	"1989"	"Albuquerque, N.M."	"0200"	57
+	"1989"	"1989"	"Allentown, PA"	"0240"	29
+	"1989"	"1989"	"Ann Arbor, MI"	"0440"	15
+	"1989"	"1989"	"Atlanta, GA"	"0520"	853
+	"1989"	"1989"	"Austin, TX"	"0640"	203
+	"1989"	"1989"	"Bakersfield, CA"	"0680"	35
+	"1989"	"1989"	"Baltimore, MD"	"0720"	464
+	"1989"	"1989"	"Baton Rouge, LA"	"0760"	51
+	"1989"	"1989"	"Bergen-Passaic, NJ"	"0875"	206
+	"1989"	"1989"	"Birmingham, AL"	"1000"	73
+	"1989"	"1989"	"Boston, MA"	"1123"	691
+	"1989"	"1989"	"Buffalo, NY"	"1280"	79
+	"1989"	"1989"	"Charleston, SC"	"1440"	61
+	"1989"	"1989"	"Charlotte, NC"	"1520"	89
+	"1989"	"1989"	"Chicago, IL"	"1600"	946
+	"1989"	"1989"	"Cincinnati, OH"	"1640"	62
+	"1989"	"1989"	"Cleveland, OH"	"1680"	131
+	"1989"	"1989"	"Colorado Springs, CO"	"1720"	29
+	"1989"	"1989"	"Columbia, SC"	"1760"	62
+	"1989"	"1989"	"Columbus, OH"	"1840"	109
+	"1989"	"1989"	"Dallas, TX"	"1920"	534
+	"1989"	"1989"	"Dayton, OH"	"2000"	56
+	"1989"	"1989"	"Daytona Beach, FL"	"2020"	54
+	"1989"	"1989"	"Denver, CO"	"2080"	316
+	"1989"	"1989"	"Detroit, MI"	"2160"	345
+	"1989"	"1989"	"El Paso, TX"	"2320"	33
+	"1989"	"1989"	"Fort Lauderdale, FL"	"2680"	575
+	"1989"	"1989"	"Fort Wayne, IN"	"2760"	17
+	"1989"	"1989"	"Fort Worth, TX"	"2800"	153
+	"1989"	"1989"	"Fresno, CA"	"2840"	47
+	"1989"	"1989"	"Gary, IN"	"2960"	44
+	"1989"	"1989"	"Grand Rapids, MI"	"3000"	36
+	"1989"	"1989"	"Greensboro, NC"	"3120"	75
+	"1989"	"1989"	"Greenvile, SC"	"3160"	48
+	"1989"	"1989"	"Harrisburg, PA"	"3240"	47
+	"1989"	"1989"	"Hartford, CT"	"3283"	142
+	"1989"	"1989"	"Honolulu, HI"	"3320"	122
+	"1989"	"1989"	"Houston, TX"	"3360"	884
+	"1989"	"1989"	"Indianapolis, IN"	"3480"	201
+	"1989"	"1989"	"Jacksonville, FL"	"3600"	194
+	"1989"	"1989"	"Jersey City, NJ"	"3640"	306
+	"1989"	"1989"	"Kansas City, MO"	"3760"	248
+	"1989"	"1989"	"Knoxville, TN"	"3840"	22
+	"1989"	"1989"	"Las Vegas, NV"	"4120"	127
+	"1989"	"1989"	"Little Rock, AR"	"4400"	30
+	"1989"	"1989"	"Los Angeles, CA"	"4480"	2290
+	"1989"	"1989"	"Louisville, KY"	"4520"	43
+	"1989"	"1989"	"McAllen-Edinburg-Mission, TX"	"4880"	17
+	"1989"	"1989"	"Memphis, TN"	"4920"	85
+	"1989"	"1989"	"Miami, FL"	"5000"	945
+	"1989"	"1989"	"Middlesex, NJ"	"5015"	167
+	"1989"	"1989"	"Milwaukee, WI"	"5080"	71
+	"1989"	"1989"	"Minneapolis-St Paul, MN"	"5120"	155
+	"1989"	"1989"	"Mobile, Al"	"5160"	49
+	"1989"	"1989"	"Monmouth-Ocean City, NJ"	"5190"	179
+	"1989"	"1989"	"Nashville, TN"	"5360"	78
+	"1989"	"1989"	"Nassau-Suffolk, NY"	"5380"	346
+	"1989"	"1989"	"New Haven, CT"	"5483"	237
+	"1989"	"1989"	"New Orleans, LA"	"5560"	307
+	"1989"	"1989"	"New York, NY"	"5600"	4740
+	"1989"	"1989"	"Newark, NJ"	"5640"	969
+	"1989"	"1989"	"Norfolk, VA"	"5720"	77
+	"1989"	"1989"	"Oakland, CA"	"5775"	398
+	"1989"	"1989"	"Oklahoma City, OK"	"5880"	88
+	"1989"	"1989"	"Omaha, NE"	"5920"	23
+	"1989"	"1989"	"Orange County, CA"	"5945"	279
+	"1989"	"1989"	"Orlando, FL"	"5960"	166
+	"1989"	"1989"	"Philadelphia, PA"	"6160"	775
+	"1989"	"1989"	"Phoenix, AZ"	"6200"	232
+	"1989"	"1989"	"Pittsburgh, PA"	"6280"	166
+	"1989"	"1989"	"Portland, OR"	"6440"	190
+	"1989"	"1989"	"Providence, RI"	"6483"	78
+	"1989"	"1989"	"Raleigh-Durham, NC"	"6640"	102
+	"1989"	"1989"	"Richmond, VA"	"6760"	93
+	"1989"	"1989"	"Riverside-S Berndino, CA"	"6780"	255
+	"1989"	"1989"	"Rochester, NY"	"6840"	64
+	"1989"	"1989"	"Sacramento, CA"	"6920"	159
+	"1989"	"1989"	"Saint Louis, MO"	"7040"	182
+	"1989"	"1989"	"Salt Lake City, UT"	"7160"	60
+	"1989"	"1989"	"San Antonio, TX"	"7240"	190
+	"1989"	"1989"	"San Diego, CA"	"7320"	502
+	"1989"	"1989"	"San Francisco, CA"	"7360"	1755
+	"1989"	"1989"	"San Jose, CA"	"7400"	119
+	"1989"	"1989"	"San Juan, PR"	"7440"	887
+	"1989"	"1989"	"Sarasota, FL"	"7510"	79
+	"1989"	"1989"	"Scranton, PA"	"7560"	19
+	"1989"	"1989"	"Seattle, WA"	"7600"	388
+	"1989"	"1989"	"Springfield, MA"	"8003"	45
+	"1989"	"1989"	"Stockton, CA"	"8120"	28
+	"1989"	"1989"	"Syracuse, NY"	"8160"	57
+	"1989"	"1989"	"Tacoma, WA"	"8200"	40
+	"1989"	"1989"	"Tampa-Saint Petersburg, FL"	"8280"	380
+	"1989"	"1989"	"Toledo, OH"	"8400"	24
+	"1989"	"1989"	"Tucson, AZ"	"8520"	56
+	"1989"	"1989"	"Tulsa, OK"	"8560"	48
+	"1989"	"1989"	"Vallejo-Fairfield-Napa, CA"	"8720"	56
+	"1989"	"1989"	"Ventura, CA"	"8735"	32
+	"1989"	"1989"	"Washington, DC"	"8840"	856
+	"1989"	"1989"	"West Palm Beach, FL"	"8960"	323
+	"1989"	"1989"	"Wichita, KS"	"9040"	27
+	"1989"	"1989"	"Wilmington, DE"	"9160"	57
+	"1989"	"1989"	"Youngstown, OH"	"9320"	19
+"Total"	"1989"	"1989"			29038
+	"1990"	"1990"	"Akron, OH"	"0080"	28
+	"1990"	"1990"	"Albany-Schenectady, NY"	"0160"	71
+	"1990"	"1990"	"Albuquerque, N.M."	"0200"	52
+	"1990"	"1990"	"Allentown, PA"	"0240"	51
+	"1990"	"1990"	"Ann Arbor, MI"	"0440"	24
+	"1990"	"1990"	"Atlanta, GA"	"0520"	947
+	"1990"	"1990"	"Austin, TX"	"0640"	232
+	"1990"	"1990"	"Bakersfield, CA"	"0680"	33
+	"1990"	"1990"	"Baltimore, MD"	"0720"	638
+	"1990"	"1990"	"Baton Rouge, LA"	"0760"	57
+	"1990"	"1990"	"Bergen-Passaic, NJ"	"0875"	344
+	"1990"	"1990"	"Birmingham, AL"	"1000"	73
+	"1990"	"1990"	"Boston, MA"	"1123"	735
+	"1990"	"1990"	"Buffalo, NY"	"1280"	109
+	"1990"	"1990"	"Charleston, SC"	"1440"	81
+	"1990"	"1990"	"Charlotte, NC"	"1520"	100
+	"1990"	"1990"	"Chicago, IL"	"1600"	1093
+	"1990"	"1990"	"Cincinnati, OH"	"1640"	134
+	"1990"	"1990"	"Cleveland, OH"	"1680"	161
+	"1990"	"1990"	"Colorado Springs, CO"	"1720"	21
+	"1990"	"1990"	"Columbia, SC"	"1760"	87
+	"1990"	"1990"	"Columbus, OH"	"1840"	146
+	"1990"	"1990"	"Dallas, TX"	"1920"	787
+	"1990"	"1990"	"Dayton, OH"	"2000"	74
+	"1990"	"1990"	"Daytona Beach, FL"	"2020"	87
+	"1990"	"1990"	"Denver, CO"	"2080"	304
+	"1990"	"1990"	"Detroit, MI"	"2160"	385
+	"1990"	"1990"	"El Paso, TX"	"2320"	32
+	"1990"	"1990"	"Fort Lauderdale, FL"	"2680"	792
+	"1990"	"1990"	"Fort Wayne, IN"	"2760"	16
+	"1990"	"1990"	"Fort Worth, TX"	"2800"	196
+	"1990"	"1990"	"Fresno, CA"	"2840"	63
+	"1990"	"1990"	"Gary, IN"	"2960"	22
+	"1990"	"1990"	"Grand Rapids, MI"	"3000"	42
+	"1990"	"1990"	"Greensboro, NC"	"3120"	95
+	"1990"	"1990"	"Greenvile, SC"	"3160"	48
+	"1990"	"1990"	"Harrisburg, PA"	"3240"	33
+	"1990"	"1990"	"Hartford, CT"	"3283"	145
+	"1990"	"1990"	"Honolulu, HI"	"3320"	116
+	"1990"	"1990"	"Houston, TX"	"3360"	1315
+	"1990"	"1990"	"Indianapolis, IN"	"3480"	145
+	"1990"	"1990"	"Jacksonville, FL"	"3600"	262
+	"1990"	"1990"	"Jersey City, NJ"	"3640"	351
+	"1990"	"1990"	"Kansas City, MO"	"3760"	286
+	"1990"	"1990"	"Knoxville, TN"	"3840"	29
+	"1990"	"1990"	"Las Vegas, NV"	"4120"	156
+	"1990"	"1990"	"Little Rock, AR"	"4400"	73
+	"1990"	"1990"	"Los Angeles, CA"	"4480"	2354
+	"1990"	"1990"	"Louisville, KY"	"4520"	71
+	"1990"	"1990"	"McAllen-Edinburg-Mission, TX"	"4880"	22
+	"1990"	"1990"	"Memphis, TN"	"4920"	104
+	"1990"	"1990"	"Miami, FL"	"5000"	1004
+	"1990"	"1990"	"Middlesex, NJ"	"5015"	154
+	"1990"	"1990"	"Milwaukee, WI"	"5080"	113
+	"1990"	"1990"	"Minneapolis-St Paul, MN"	"5120"	179
+	"1990"	"1990"	"Mobile, Al"	"5160"	41
+	"1990"	"1990"	"Monmouth-Ocean City, NJ"	"5190"	195
+	"1990"	"1990"	"Nashville, TN"	"5360"	109
+	"1990"	"1990"	"Nassau-Suffolk, NY"	"5380"	384
+	"1990"	"1990"	"New Haven, CT"	"5483"	240
+	"1990"	"1990"	"New Orleans, LA"	"5560"	390
+	"1990"	"1990"	"New York, NY"	"5600"	6983
+	"1990"	"1990"	"Newark, NJ"	"5640"	966
+	"1990"	"1990"	"Norfolk, VA"	"5720"	191
+	"1990"	"1990"	"Oakland, CA"	"5775"	594
+	"1990"	"1990"	"Oklahoma City, OK"	"5880"	102
+	"1990"	"1990"	"Omaha, NE"	"5920"	40
+	"1990"	"1990"	"Orange County, CA"	"5945"	380
+	"1990"	"1990"	"Orlando, FL"	"5960"	268
+	"1990"	"1990"	"Philadelphia, PA"	"6160"	885
+	"1990"	"1990"	"Phoenix, AZ"	"6200"	227
+	"1990"	"1990"	"Pittsburgh, PA"	"6280"	165
+	"1990"	"1990"	"Portland, OR"	"6440"	286
+	"1990"	"1990"	"Providence, RI"	"6483"	83
+	"1990"	"1990"	"Raleigh-Durham, NC"	"6640"	118
+	"1990"	"1990"	"Richmond, VA"	"6760"	132
+	"1990"	"1990"	"Riverside-S Berndino, CA"	"6780"	276
+	"1990"	"1990"	"Rochester, NY"	"6840"	81
+	"1990"	"1990"	"Sacramento, CA"	"6920"	137
+	"1990"	"1990"	"Saint Louis, MO"	"7040"	296
+	"1990"	"1990"	"Salt Lake City, UT"	"7160"	88
+	"1990"	"1990"	"San Antonio, TX"	"7240"	232
+	"1990"	"1990"	"San Diego, CA"	"7320"	664
+	"1990"	"1990"	"San Francisco, CA"	"7360"	2076
+	"1990"	"1990"	"San Jose, CA"	"7400"	192
+	"1990"	"1990"	"San Juan, PR"	"7440"	1092
+	"1990"	"1990"	"Sarasota, FL"	"7510"	59
+	"1990"	"1990"	"Scranton, PA"	"7560"	32
+	"1990"	"1990"	"Seattle, WA"	"7600"	568
+	"1990"	"1990"	"Springfield, MA"	"8003"	75
+	"1990"	"1990"	"Stockton, CA"	"8120"	30
+	"1990"	"1990"	"Syracuse, NY"	"8160"	50
+	"1990"	"1990"	"Tacoma, WA"	"8200"	52
+	"1990"	"1990"	"Tampa-Saint Petersburg, FL"	"8280"	404
+	"1990"	"1990"	"Toledo, OH"	"8400"	40
+	"1990"	"1990"	"Tucson, AZ"	"8520"	57
+	"1990"	"1990"	"Tulsa, OK"	"8560"	54
+	"1990"	"1990"	"Vallejo-Fairfield-Napa, CA"	"8720"	81
+	"1990"	"1990"	"Ventura, CA"	"8735"	41
+	"1990"	"1990"	"Washington, DC"	"8840"	1285
+	"1990"	"1990"	"West Palm Beach, FL"	"8960"	340
+	"1990"	"1990"	"Wichita, KS"	"9040"	38
+	"1990"	"1990"	"Wilmington, DE"	"9160"	72
+	"1990"	"1990"	"Youngstown, OH"	"9320"	24
+"Total"	"1990"	"1990"			36287
+	"1991"	"1991"	"Akron, OH"	"0080"	34
+	"1991"	"1991"	"Albany-Schenectady, NY"	"0160"	82
+	"1991"	"1991"	"Albuquerque, N.M."	"0200"	68
+	"1991"	"1991"	"Allentown, PA"	"0240"	35
+	"1991"	"1991"	"Ann Arbor, MI"	"0440"	30
+	"1991"	"1991"	"Atlanta, GA"	"0520"	1104
+	"1991"	"1991"	"Austin, TX"	"0640"	200
+	"1991"	"1991"	"Bakersfield, CA"	"0680"	48
+	"1991"	"1991"	"Baltimore, MD"	"0720"	568
+	"1991"	"1991"	"Baton Rouge, LA"	"0760"	80
+	"1991"	"1991"	"Bergen-Passaic, NJ"	"0875"	232
+	"1991"	"1991"	"Birmingham, AL"	"1000"	109
+	"1991"	"1991"	"Boston, MA"	"1123"	820
+	"1991"	"1991"	"Buffalo, NY"	"1280"	97
+	"1991"	"1991"	"Charleston, SC"	"1440"	68
+	"1991"	"1991"	"Charlotte, NC"	"1520"	86
+	"1991"	"1991"	"Chicago, IL"	"1600"	1358
+	"1991"	"1991"	"Cincinnati, OH"	"1640"	97
+	"1991"	"1991"	"Cleveland, OH"	"1680"	193
+	"1991"	"1991"	"Colorado Springs, CO"	"1720"	25
+	"1991"	"1991"	"Columbia, SC"	"1760"	71
+	"1991"	"1991"	"Columbus, OH"	"1840"	116
+	"1991"	"1991"	"Dallas, TX"	"1920"	710
+	"1991"	"1991"	"Dayton, OH"	"2000"	57
+	"1991"	"1991"	"Daytona Beach, FL"	"2020"	69
+	"1991"	"1991"	"Denver, CO"	"2080"	357
+	"1991"	"1991"	"Detroit, MI"	"2160"	465
+	"1991"	"1991"	"El Paso, TX"	"2320"	48
+	"1991"	"1991"	"Fort Lauderdale, FL"	"2680"	915
+	"1991"	"1991"	"Fort Wayne, IN"	"2760"	8
+	"1991"	"1991"	"Fort Worth, TX"	"2800"	179
+	"1991"	"1991"	"Fresno, CA"	"2840"	80
+	"1991"	"1991"	"Gary, IN"	"2960"	35
+	"1991"	"1991"	"Grand Rapids, MI"	"3000"	51
+	"1991"	"1991"	"Greensboro, NC"	"3120"	117
+	"1991"	"1991"	"Greenvile, SC"	"3160"	62
+	"1991"	"1991"	"Harrisburg, PA"	"3240"	42
+	"1991"	"1991"	"Hartford, CT"	"3283"	170
+	"1991"	"1991"	"Honolulu, HI"	"3320"	127
+	"1991"	"1991"	"Houston, TX"	"3360"	1169
+	"1991"	"1991"	"Indianapolis, IN"	"3480"	152
+	"1991"	"1991"	"Jacksonville, FL"	"3600"	218
+	"1991"	"1991"	"Jersey City, NJ"	"3640"	401
+	"1991"	"1991"	"Kansas City, MO"	"3760"	234
+	"1991"	"1991"	"Knoxville, TN"	"3840"	26
+	"1991"	"1991"	"Las Vegas, NV"	"4120"	196
+	"1991"	"1991"	"Little Rock, AR"	"4400"	64
+	"1991"	"1991"	"Los Angeles, CA"	"4480"	2539
+	"1991"	"1991"	"Louisville, KY"	"4520"	68
+	"1991"	"1991"	"McAllen-Edinburg-Mission, TX"	"4880"	14
+	"1991"	"1991"	"Memphis, TN"	"4920"	105
+	"1991"	"1991"	"Miami, FL"	"5000"	1918
+	"1991"	"1991"	"Middlesex, NJ"	"5015"	184
+	"1991"	"1991"	"Milwaukee, WI"	"5080"	103
+	"1991"	"1991"	"Minneapolis-St Paul, MN"	"5120"	186
+	"1991"	"1991"	"Mobile, Al"	"5160"	104
+	"1991"	"1991"	"Monmouth-Ocean City, NJ"	"5190"	153
+	"1991"	"1991"	"Nashville, TN"	"5360"	119
+	"1991"	"1991"	"Nassau-Suffolk, NY"	"5380"	330
+	"1991"	"1991"	"New Haven, CT"	"5483"	356
+	"1991"	"1991"	"New Orleans, LA"	"5560"	501
+	"1991"	"1991"	"New York, NY"	"5600"	6782
+	"1991"	"1991"	"Newark, NJ"	"5640"	903
+	"1991"	"1991"	"Norfolk, VA"	"5720"	138
+	"1991"	"1991"	"Oakland, CA"	"5775"	434
+	"1991"	"1991"	"Oklahoma City, OK"	"5880"	90
+	"1991"	"1991"	"Omaha, NE"	"5920"	44
+	"1991"	"1991"	"Orange County, CA"	"5945"	425
+	"1991"	"1991"	"Orlando, FL"	"5960"	388
+	"1991"	"1991"	"Philadelphia, PA"	"6160"	920
+	"1991"	"1991"	"Phoenix, AZ"	"6200"	206
+	"1991"	"1991"	"Pittsburgh, PA"	"6280"	125
+	"1991"	"1991"	"Portland, OR"	"6440"	213
+	"1991"	"1991"	"Providence, RI"	"6483"	85
+	"1991"	"1991"	"Raleigh-Durham, NC"	"6640"	146
+	"1991"	"1991"	"Richmond, VA"	"6760"	131
+	"1991"	"1991"	"Riverside-S Berndino, CA"	"6780"	350
+	"1991"	"1991"	"Rochester, NY"	"6840"	87
+	"1991"	"1991"	"Sacramento, CA"	"6920"	214
+	"1991"	"1991"	"Saint Louis, MO"	"7040"	359
+	"1991"	"1991"	"Salt Lake City, UT"	"7160"	113
+	"1991"	"1991"	"San Antonio, TX"	"7240"	211
+	"1991"	"1991"	"San Diego, CA"	"7320"	614
+	"1991"	"1991"	"San Francisco, CA"	"7360"	1943
+	"1991"	"1991"	"San Jose, CA"	"7400"	181
+	"1991"	"1991"	"San Juan, PR"	"7440"	1054
+	"1991"	"1991"	"Sarasota, FL"	"7510"	120
+	"1991"	"1991"	"Scranton, PA"	"7560"	25
+	"1991"	"1991"	"Seattle, WA"	"7600"	422
+	"1991"	"1991"	"Springfield, MA"	"8003"	97
+	"1991"	"1991"	"Stockton, CA"	"8120"	60
+	"1991"	"1991"	"Syracuse, NY"	"8160"	52
+	"1991"	"1991"	"Tacoma, WA"	"8200"	37
+	"1991"	"1991"	"Tampa-Saint Petersburg, FL"	"8280"	515
+	"1991"	"1991"	"Toledo, OH"	"8400"	38
+	"1991"	"1991"	"Tucson, AZ"	"8520"	53
+	"1991"	"1991"	"Tulsa, OK"	"8560"	60
+	"1991"	"1991"	"Vallejo-Fairfield-Napa, CA"	"8720"	85
+	"1991"	"1991"	"Ventura, CA"	"8735"	58
+	"1991"	"1991"	"Washington, DC"	"8840"	1309
+	"1991"	"1991"	"West Palm Beach, FL"	"8960"	379
+	"1991"	"1991"	"Wichita, KS"	"9040"	23
+	"1991"	"1991"	"Wilmington, DE"	"9160"	59
+	"1991"	"1991"	"Youngstown, OH"	"9320"	15
+"Total"	"1991"	"1991"			37716
+	"1992"	"1992"	"Akron, OH"	"0080"	41
+	"1992"	"1992"	"Albany-Schenectady, NY"	"0160"	109
+	"1992"	"1992"	"Albuquerque, N.M."	"0200"	70
+	"1992"	"1992"	"Allentown, PA"	"0240"	39
+	"1992"	"1992"	"Ann Arbor, MI"	"0440"	24
+	"1992"	"1992"	"Atlanta, GA"	"0520"	970
+	"1992"	"1992"	"Austin, TX"	"0640"	276
+	"1992"	"1992"	"Bakersfield, CA"	"0680"	51
+	"1992"	"1992"	"Baltimore, MD"	"0720"	730
+	"1992"	"1992"	"Baton Rouge, LA"	"0760"	83
+	"1992"	"1992"	"Bergen-Passaic, NJ"	"0875"	266
+	"1992"	"1992"	"Birmingham, AL"	"1000"	109
+	"1992"	"1992"	"Boston, MA"	"1123"	717
+	"1992"	"1992"	"Buffalo, NY"	"1280"	88
+	"1992"	"1992"	"Charleston, SC"	"1440"	83
+	"1992"	"1992"	"Charlotte, NC"	"1520"	112
+	"1992"	"1992"	"Chicago, IL"	"1600"	1627
+	"1992"	"1992"	"Cincinnati, OH"	"1640"	129
+	"1992"	"1992"	"Cleveland, OH"	"1680"	220
+	"1992"	"1992"	"Colorado Springs, CO"	"1720"	22
+	"1992"	"1992"	"Columbia, SC"	"1760"	71
+	"1992"	"1992"	"Columbus, OH"	"1840"	190
+	"1992"	"1992"	"Dallas, TX"	"1920"	684
+	"1992"	"1992"	"Dayton, OH"	"2000"	70
+	"1992"	"1992"	"Daytona Beach, FL"	"2020"	65
+	"1992"	"1992"	"Denver, CO"	"2080"	320
+	"1992"	"1992"	"Detroit, MI"	"2160"	625
+	"1992"	"1992"	"El Paso, TX"	"2320"	49
+	"1992"	"1992"	"Fort Lauderdale, FL"	"2680"	822
+	"1992"	"1992"	"Fort Wayne, IN"	"2760"	16
+	"1992"	"1992"	"Fort Worth, TX"	"2800"	176
+	"1992"	"1992"	"Fresno, CA"	"2840"	90
+	"1992"	"1992"	"Gary, IN"	"2960"	44
+	"1992"	"1992"	"Grand Rapids, MI"	"3000"	35
+	"1992"	"1992"	"Greensboro, NC"	"3120"	107
+	"1992"	"1992"	"Greenvile, SC"	"3160"	85
+	"1992"	"1992"	"Harrisburg, PA"	"3240"	42
+	"1992"	"1992"	"Hartford, CT"	"3283"	208
+	"1992"	"1992"	"Honolulu, HI"	"3320"	103
+	"1992"	"1992"	"Houston, TX"	"3360"	991
+	"1992"	"1992"	"Indianapolis, IN"	"3480"	170
+	"1992"	"1992"	"Jacksonville, FL"	"3600"	322
+	"1992"	"1992"	"Jersey City, NJ"	"3640"	281
+	"1992"	"1992"	"Kansas City, MO"	"3760"	298
+	"1992"	"1992"	"Knoxville, TN"	"3840"	27
+	"1992"	"1992"	"Las Vegas, NV"	"4120"	186
+	"1992"	"1992"	"Little Rock, AR"	"4400"	116
+	"1992"	"1992"	"Los Angeles, CA"	"4480"	3275
+	"1992"	"1992"	"Louisville, KY"	"4520"	101
+	"1992"	"1992"	"McAllen-Edinburg-Mission, TX"	"4880"	22
+	"1992"	"1992"	"Memphis, TN"	"4920"	164
+	"1992"	"1992"	"Miami, FL"	"5000"	1184
+	"1992"	"1992"	"Middlesex, NJ"	"5015"	199
+	"1992"	"1992"	"Milwaukee, WI"	"5080"	125
+	"1992"	"1992"	"Minneapolis-St Paul, MN"	"5120"	186
+	"1992"	"1992"	"Mobile, Al"	"5160"	115
+	"1992"	"1992"	"Monmouth-Ocean City, NJ"	"5190"	122
+	"1992"	"1992"	"Nashville, TN"	"5360"	128
+	"1992"	"1992"	"Nassau-Suffolk, NY"	"5380"	404
+	"1992"	"1992"	"New Haven, CT"	"5483"	368
+	"1992"	"1992"	"New Orleans, LA"	"5560"	468
+	"1992"	"1992"	"New York, NY"	"5600"	6828
+	"1992"	"1992"	"Newark, NJ"	"5640"	795
+	"1992"	"1992"	"Norfolk, VA"	"5720"	158
+	"1992"	"1992"	"Oakland, CA"	"5775"	542
+	"1992"	"1992"	"Oklahoma City, OK"	"5880"	132
+	"1992"	"1992"	"Omaha, NE"	"5920"	44
+	"1992"	"1992"	"Orange County, CA"	"5945"	481
+	"1992"	"1992"	"Orlando, FL"	"5960"	311
+	"1992"	"1992"	"Philadelphia, PA"	"6160"	980
+	"1992"	"1992"	"Phoenix, AZ"	"6200"	261
+	"1992"	"1992"	"Pittsburgh, PA"	"6280"	166
+	"1992"	"1992"	"Portland, OR"	"6440"	247
+	"1992"	"1992"	"Providence, RI"	"6483"	100
+	"1992"	"1992"	"Raleigh-Durham, NC"	"6640"	99
+	"1992"	"1992"	"Richmond, VA"	"6760"	160
+	"1992"	"1992"	"Riverside-S Berndino, CA"	"6780"	432
+	"1992"	"1992"	"Rochester, NY"	"6840"	106
+	"1992"	"1992"	"Sacramento, CA"	"6920"	268
+	"1992"	"1992"	"Saint Louis, MO"	"7040"	328
+	"1992"	"1992"	"Salt Lake City, UT"	"7160"	117
+	"1992"	"1992"	"San Antonio, TX"	"7240"	221
+	"1992"	"1992"	"San Diego, CA"	"7320"	678
+	"1992"	"1992"	"San Francisco, CA"	"7360"	2072
+	"1992"	"1992"	"San Jose, CA"	"7400"	179
+	"1992"	"1992"	"San Juan, PR"	"7440"	1033
+	"1992"	"1992"	"Sarasota, FL"	"7510"	78
+	"1992"	"1992"	"Scranton, PA"	"7560"	24
+	"1992"	"1992"	"Seattle, WA"	"7600"	422
+	"1992"	"1992"	"Springfield, MA"	"8003"	102
+	"1992"	"1992"	"Stockton, CA"	"8120"	33
+	"1992"	"1992"	"Syracuse, NY"	"8160"	73
+	"1992"	"1992"	"Tacoma, WA"	"8200"	37
+	"1992"	"1992"	"Tampa-Saint Petersburg, FL"	"8280"	625
+	"1992"	"1992"	"Toledo, OH"	"8400"	35
+	"1992"	"1992"	"Tucson, AZ"	"8520"	93
+	"1992"	"1992"	"Tulsa, OK"	"8560"	78
+	"1992"	"1992"	"Vallejo-Fairfield-Napa, CA"	"8720"	80
+	"1992"	"1992"	"Ventura, CA"	"8735"	57
+	"1992"	"1992"	"Washington, DC"	"8840"	1360
+	"1992"	"1992"	"West Palm Beach, FL"	"8960"	492
+	"1992"	"1992"	"Wichita, KS"	"9040"	65
+	"1992"	"1992"	"Wilmington, DE"	"9160"	101
+	"1992"	"1992"	"Youngstown, OH"	"9320"	27
+"Total"	"1992"	"1992"			39340
+	"1993"	"1993"	"Akron, OH"	"0080"	52
+	"1993"	"1993"	"Albany-Schenectady, NY"	"0160"	212
+	"1993"	"1993"	"Albuquerque, N.M."	"0200"	170
+	"1993"	"1993"	"Allentown, PA"	"0240"	121
+	"1993"	"1993"	"Ann Arbor, MI"	"0440"	61
+	"1993"	"1993"	"Atlanta, GA"	"0520"	1941
+	"1993"	"1993"	"Austin, TX"	"0640"	638
+	"1993"	"1993"	"Bakersfield, CA"	"0680"	168
+	"1993"	"1993"	"Baltimore, MD"	"0720"	1748
+	"1993"	"1993"	"Baton Rouge, LA"	"0760"	202
+	"1993"	"1993"	"Bergen-Passaic, NJ"	"0875"	772
+	"1993"	"1993"	"Birmingham, AL"	"1000"	275
+	"1993"	"1993"	"Boston, MA"	"1123"	2372
+	"1993"	"1993"	"Buffalo, NY"	"1280"	198
+	"1993"	"1993"	"Charleston, SC"	"1440"	293
+	"1993"	"1993"	"Charlotte, NC"	"1520"	346
+	"1993"	"1993"	"Chicago, IL"	"1600"	2455
+	"1993"	"1993"	"Cincinnati, OH"	"1640"	265
+	"1993"	"1993"	"Cleveland, OH"	"1680"	430
+	"1993"	"1993"	"Colorado Springs, CO"	"1720"	66
+	"1993"	"1993"	"Columbia, SC"	"1760"	293
+	"1993"	"1993"	"Columbus, OH"	"1840"	321
+	"1993"	"1993"	"Dallas, TX"	"1920"	1819
+	"1993"	"1993"	"Dayton, OH"	"2000"	141
+	"1993"	"1993"	"Daytona Beach, FL"	"2020"	138
+	"1993"	"1993"	"Denver, CO"	"2080"	1113
+	"1993"	"1993"	"Detroit, MI"	"2160"	1155
+	"1993"	"1993"	"El Paso, TX"	"2320"	117
+	"1993"	"1993"	"Fort Lauderdale, FL"	"2680"	1239
+	"1993"	"1993"	"Fort Wayne, IN"	"2760"	36
+	"1993"	"1993"	"Fort Worth, TX"	"2800"	423
+	"1993"	"1993"	"Fresno, CA"	"2840"	176
+	"1993"	"1993"	"Gary, IN"	"2960"	86
+	"1993"	"1993"	"Grand Rapids, MI"	"3000"	128
+	"1993"	"1993"	"Greensboro, NC"	"3120"	185
+	"1993"	"1993"	"Greenvile, SC"	"3160"	266
+	"1993"	"1993"	"Harrisburg, PA"	"3240"	80
+	"1993"	"1993"	"Hartford, CT"	"3283"	620
+	"1993"	"1993"	"Honolulu, HI"	"3320"	270
+	"1993"	"1993"	"Houston, TX"	"3360"	2525
+	"1993"	"1993"	"Indianapolis, IN"	"3480"	492
+	"1993"	"1993"	"Jacksonville, FL"	"3600"	870
+	"1993"	"1993"	"Jersey City, NJ"	"3640"	721
+	"1993"	"1993"	"Kansas City, MO"	"3760"	739
+	"1993"	"1993"	"Knoxville, TN"	"3840"	97
+	"1993"	"1993"	"Las Vegas, NV"	"4120"	486
+	"1993"	"1993"	"Little Rock, AR"	"4400"	146
+	"1993"	"1993"	"Los Angeles, CA"	"4480"	5729
+	"1993"	"1993"	"Louisville, KY"	"4520"	159
+	"1993"	"1993"	"McAllen-Edinburg-Mission, TX"	"4880"	47
+	"1993"	"1993"	"Memphis, TN"	"4920"	452
+	"1993"	"1993"	"Miami, FL"	"5000"	3436
+	"1993"	"1993"	"Middlesex, NJ"	"5015"	390
+	"1993"	"1993"	"Milwaukee, WI"	"5080"	355
+	"1993"	"1993"	"Minneapolis-St Paul, MN"	"5120"	574
+	"1993"	"1993"	"Mobile, Al"	"5160"	107
+	"1993"	"1993"	"Monmouth-Ocean City, NJ"	"5190"	423
+	"1993"	"1993"	"Nashville, TN"	"5360"	351
+	"1993"	"1993"	"Nassau-Suffolk, NY"	"5380"	969
+	"1993"	"1993"	"New Haven, CT"	"5483"	977
+	"1993"	"1993"	"New Orleans, LA"	"5560"	707
+	"1993"	"1993"	"New York, NY"	"5600"	13955
+	"1993"	"1993"	"Newark, NJ"	"5640"	2063
+	"1993"	"1993"	"Norfolk, VA"	"5720"	337
+	"1993"	"1993"	"Oakland, CA"	"5775"	1272
+	"1993"	"1993"	"Oklahoma City, OK"	"5880"	305
+	"1993"	"1993"	"Omaha, NE"	"5920"	131
+	"1993"	"1993"	"Orange County, CA"	"5945"	741
+	"1993"	"1993"	"Orlando, FL"	"5960"	901
+	"1993"	"1993"	"Philadelphia, PA"	"6160"	2577
+	"1993"	"1993"	"Phoenix, AZ"	"6200"	849
+	"1993"	"1993"	"Pittsburgh, PA"	"6280"	285
+	"1993"	"1993"	"Portland, OR"	"6440"	673
+	"1993"	"1993"	"Providence, RI"	"6483"	311
+	"1993"	"1993"	"Raleigh-Durham, NC"	"6640"	223
+	"1993"	"1993"	"Richmond, VA"	"6760"	402
+	"1993"	"1993"	"Riverside-S Berndino, CA"	"6780"	1169
+	"1993"	"1993"	"Rochester, NY"	"6840"	245
+	"1993"	"1993"	"Sacramento, CA"	"6920"	490
+	"1993"	"1993"	"Saint Louis, MO"	"7040"	870
+	"1993"	"1993"	"Salt Lake City, UT"	"7160"	235
+	"1993"	"1993"	"San Antonio, TX"	"7240"	460
+	"1993"	"1993"	"San Diego, CA"	"7320"	1678
+	"1993"	"1993"	"San Francisco, CA"	"7360"	4528
+	"1993"	"1993"	"San Jose, CA"	"7400"	548
+	"1993"	"1993"	"San Juan, PR"	"7440"	1966
+	"1993"	"1993"	"Sarasota, FL"	"7510"	155
+	"1993"	"1993"	"Scranton, PA"	"7560"	58
+	"1993"	"1993"	"Seattle, WA"	"7600"	1118
+	"1993"	"1993"	"Springfield, MA"	"8003"	233
+	"1993"	"1993"	"Stockton, CA"	"8120"	105
+	"1993"	"1993"	"Syracuse, NY"	"8160"	178
+	"1993"	"1993"	"Tacoma, WA"	"8200"	154
+	"1993"	"1993"	"Tampa-Saint Petersburg, FL"	"8280"	1401
+	"1993"	"1993"	"Toledo, OH"	"8400"	92
+	"1993"	"1993"	"Tucson, AZ"	"8520"	278
+	"1993"	"1993"	"Tulsa, OK"	"8560"	239
+	"1993"	"1993"	"Vallejo-Fairfield-Napa, CA"	"8720"	242
+	"1993"	"1993"	"Ventura, CA"	"8735"	129
+	"1993"	"1993"	"Washington, DC"	"8840"	2737
+	"1993"	"1993"	"West Palm Beach, FL"	"8960"	835
+	"1993"	"1993"	"Wichita, KS"	"9040"	99
+	"1993"	"1993"	"Wilmington, DE"	"9160"	281
+	"1993"	"1993"	"Youngstown, OH"	"9320"	34
+"Total"	"1993"	"1993"			87725
+	"1994"	"1994"	"Akron, OH"	"0080"	45
+	"1994"	"1994"	"Albany-Schenectady, NY"	"0160"	140
+	"1994"	"1994"	"Albuquerque, N.M."	"0200"	87
+	"1994"	"1994"	"Allentown, PA"	"0240"	75
+	"1994"	"1994"	"Ann Arbor, MI"	"0440"	24
+	"1994"	"1994"	"Atlanta, GA"	"0520"	1518
+	"1994"	"1994"	"Austin, TX"	"0640"	446
+	"1994"	"1994"	"Bakersfield, CA"	"0680"	97
+	"1994"	"1994"	"Baltimore, MD"	"0720"	1827
+	"1994"	"1994"	"Baton Rouge, LA"	"0760"	177
+	"1994"	"1994"	"Bergen-Passaic, NJ"	"0875"	657
+	"1994"	"1994"	"Birmingham, AL"	"1000"	167
+	"1994"	"1994"	"Boston, MA"	"1123"	1162
+	"1994"	"1994"	"Buffalo, NY"	"1280"	99
+	"1994"	"1994"	"Charleston, SC"	"1440"	161
+	"1994"	"1994"	"Charlotte, NC"	"1520"	183
+	"1994"	"1994"	"Chicago, IL"	"1600"	2699
+	"1994"	"1994"	"Cincinnati, OH"	"1640"	240
+	"1994"	"1994"	"Cleveland, OH"	"1680"	298
+	"1994"	"1994"	"Colorado Springs, CO"	"1720"	59
+	"1994"	"1994"	"Columbia, SC"	"1760"	234
+	"1994"	"1994"	"Columbus, OH"	"1840"	269
+	"1994"	"1994"	"Dallas, TX"	"1920"	1345
+	"1994"	"1994"	"Dayton, OH"	"2000"	86
+	"1994"	"1994"	"Daytona Beach, FL"	"2020"	107
+	"1994"	"1994"	"Denver, CO"	"2080"	609
+	"1994"	"1994"	"Detroit, MI"	"2160"	671
+	"1994"	"1994"	"El Paso, TX"	"2320"	86
+	"1994"	"1994"	"Fort Lauderdale, FL"	"2680"	1373
+	"1994"	"1994"	"Fort Wayne, IN"	"2760"	25
+	"1994"	"1994"	"Fort Worth, TX"	"2800"	532
+	"1994"	"1994"	"Fresno, CA"	"2840"	101
+	"1994"	"1994"	"Gary, IN"	"2960"	92
+	"1994"	"1994"	"Grand Rapids, MI"	"3000"	83
+	"1994"	"1994"	"Greensboro, NC"	"3120"	204
+	"1994"	"1994"	"Greenvile, SC"	"3160"	187
+	"1994"	"1994"	"Harrisburg, PA"	"3240"	97
+	"1994"	"1994"	"Hartford, CT"	"3283"	381
+	"1994"	"1994"	"Honolulu, HI"	"3320"	148
+	"1994"	"1994"	"Houston, TX"	"3360"	1848
+	"1994"	"1994"	"Indianapolis, IN"	"3480"	303
+	"1994"	"1994"	"Jacksonville, FL"	"3600"	262
+	"1994"	"1994"	"Jersey City, NJ"	"3640"	805
+	"1994"	"1994"	"Kansas City, MO"	"3760"	291
+	"1994"	"1994"	"Knoxville, TN"	"3840"	111
+	"1994"	"1994"	"Las Vegas, NV"	"4120"	324
+	"1994"	"1994"	"Little Rock, AR"	"4400"	96
+	"1994"	"1994"	"Los Angeles, CA"	"4480"	4177
+	"1994"	"1994"	"Louisville, KY"	"4520"	136
+	"1994"	"1994"	"McAllen-Edinburg-Mission, TX"	"4880"	24
+	"1994"	"1994"	"Memphis, TN"	"4920"	271
+	"1994"	"1994"	"Miami, FL"	"5000"	2933
+	"1994"	"1994"	"Middlesex, NJ"	"5015"	395
+	"1994"	"1994"	"Milwaukee, WI"	"5080"	207
+	"1994"	"1994"	"Minneapolis-St Paul, MN"	"5120"	362
+	"1994"	"1994"	"Mobile, Al"	"5160"	108
+	"1994"	"1994"	"Monmouth-Ocean City, NJ"	"5190"	342
+	"1994"	"1994"	"Nashville, TN"	"5360"	209
+	"1994"	"1994"	"Nassau-Suffolk, NY"	"5380"	552
+	"1994"	"1994"	"New Haven, CT"	"5483"	446
+	"1994"	"1994"	"New Orleans, LA"	"5560"	687
+	"1994"	"1994"	"New York, NY"	"5600"	12621
+	"1994"	"1994"	"Newark, NJ"	"5640"	1795
+	"1994"	"1994"	"Norfolk, VA"	"5720"	331
+	"1994"	"1994"	"Oakland, CA"	"5775"	952
+	"1994"	"1994"	"Oklahoma City, OK"	"5880"	118
+	"1994"	"1994"	"Omaha, NE"	"5920"	53
+	"1994"	"1994"	"Orange County, CA"	"5945"	496
+	"1994"	"1994"	"Orlando, FL"	"5960"	568
+	"1994"	"1994"	"Philadelphia, PA"	"6160"	1869
+	"1994"	"1994"	"Phoenix, AZ"	"6200"	429
+	"1994"	"1994"	"Pittsburgh, PA"	"6280"	291
+	"1994"	"1994"	"Portland, OR"	"6440"	482
+	"1994"	"1994"	"Providence, RI"	"6483"	252
+	"1994"	"1994"	"Raleigh-Durham, NC"	"6640"	267
+	"1994"	"1994"	"Richmond, VA"	"6760"	219
+	"1994"	"1994"	"Riverside-S Berndino, CA"	"6780"	853
+	"1994"	"1994"	"Rochester, NY"	"6840"	215
+	"1994"	"1994"	"Sacramento, CA"	"6920"	308
+	"1994"	"1994"	"Saint Louis, MO"	"7040"	362
+	"1994"	"1994"	"Salt Lake City, UT"	"7160"	130
+	"1994"	"1994"	"San Antonio, TX"	"7240"	534
+	"1994"	"1994"	"San Diego, CA"	"7320"	954
+	"1994"	"1994"	"San Francisco, CA"	"7360"	2541
+	"1994"	"1994"	"San Jose, CA"	"7400"	387
+	"1994"	"1994"	"San Juan, PR"	"7440"	1409
+	"1994"	"1994"	"Sarasota, FL"	"7510"	186
+	"1994"	"1994"	"Scranton, PA"	"7560"	35
+	"1994"	"1994"	"Seattle, WA"	"7600"	589
+	"1994"	"1994"	"Springfield, MA"	"8003"	214
+	"1994"	"1994"	"Stockton, CA"	"8120"	107
+	"1994"	"1994"	"Syracuse, NY"	"8160"	90
+	"1994"	"1994"	"Tacoma, WA"	"8200"	84
+	"1994"	"1994"	"Tampa-Saint Petersburg, FL"	"8280"	729
+	"1994"	"1994"	"Toledo, OH"	"8400"	56
+	"1994"	"1994"	"Tucson, AZ"	"8520"	139
+	"1994"	"1994"	"Tulsa, OK"	"8560"	77
+	"1994"	"1994"	"Vallejo-Fairfield-Napa, CA"	"8720"	138
+	"1994"	"1994"	"Ventura, CA"	"8735"	66
+	"1994"	"1994"	"Washington, DC"	"8840"	2321
+	"1994"	"1994"	"West Palm Beach, FL"	"8960"	678
+	"1994"	"1994"	"Wichita, KS"	"9040"	67
+	"1994"	"1994"	"Wilmington, DE"	"9160"	224
+	"1994"	"1994"	"Youngstown, OH"	"9320"	33
+"Total"	"1994"	"1994"			65949
+	"1995"	"1995"	"Akron, OH"	"0080"	38
+	"1995"	"1995"	"Albany-Schenectady, NY"	"0160"	202
+	"1995"	"1995"	"Albuquerque, N.M."	"0200"	91
+	"1995"	"1995"	"Allentown, PA"	"0240"	86
+	"1995"	"1995"	"Ann Arbor, MI"	"0440"	50
+	"1995"	"1995"	"Atlanta, GA"	"0520"	1556
+	"1995"	"1995"	"Austin, TX"	"0640"	316
+	"1995"	"1995"	"Bakersfield, CA"	"0680"	119
+	"1995"	"1995"	"Baltimore, MD"	"0720"	1677
+	"1995"	"1995"	"Baton Rouge, LA"	"0760"	122
+	"1995"	"1995"	"Bergen-Passaic, NJ"	"0875"	548
+	"1995"	"1995"	"Birmingham, AL"	"1000"	192
+	"1995"	"1995"	"Boston, MA"	"1123"	1223
+	"1995"	"1995"	"Buffalo, NY"	"1280"	87
+	"1995"	"1995"	"Charleston, SC"	"1440"	144
+	"1995"	"1995"	"Charlotte, NC"	"1520"	238
+	"1995"	"1995"	"Chicago, IL"	"1600"	1867
+	"1995"	"1995"	"Cincinnati, OH"	"1640"	187
+	"1995"	"1995"	"Cleveland, OH"	"1680"	423
+	"1995"	"1995"	"Colorado Springs, CO"	"1720"	45
+	"1995"	"1995"	"Columbia, SC"	"1760"	234
+	"1995"	"1995"	"Columbus, OH"	"1840"	186
+	"1995"	"1995"	"Dallas, TX"	"1920"	1263
+	"1995"	"1995"	"Dayton, OH"	"2000"	46
+	"1995"	"1995"	"Daytona Beach, FL"	"2020"	98
+	"1995"	"1995"	"Denver, CO"	"2080"	520
+	"1995"	"1995"	"Detroit, MI"	"2160"	781
+	"1995"	"1995"	"El Paso, TX"	"2320"	136
+	"1995"	"1995"	"Fort Lauderdale, FL"	"2680"	1207
+	"1995"	"1995"	"Fort Wayne, IN"	"2760"	29
+	"1995"	"1995"	"Fort Worth, TX"	"2800"	209
+	"1995"	"1995"	"Fresno, CA"	"2840"	141
+	"1995"	"1995"	"Gary, IN"	"2960"	77
+	"1995"	"1995"	"Grand Rapids, MI"	"3000"	94
+	"1995"	"1995"	"Greensboro, NC"	"3120"	199
+	"1995"	"1995"	"Greenvile, SC"	"3160"	126
+	"1995"	"1995"	"Harrisburg, PA"	"3240"	126
+	"1995"	"1995"	"Hartford, CT"	"3283"	550
+	"1995"	"1995"	"Honolulu, HI"	"3320"	179
+	"1995"	"1995"	"Houston, TX"	"3360"	1142
+	"1995"	"1995"	"Indianapolis, IN"	"3480"	228
+	"1995"	"1995"	"Jacksonville, FL"	"3600"	440
+	"1995"	"1995"	"Jersey City, NJ"	"3640"	752
+	"1995"	"1995"	"Kansas City, MO"	"3760"	318
+	"1995"	"1995"	"Knoxville, TN"	"3840"	68
+	"1995"	"1995"	"Las Vegas, NV"	"4120"	377
+	"1995"	"1995"	"Little Rock, AR"	"4400"	82
+	"1995"	"1995"	"Los Angeles, CA"	"4480"	3790
+	"1995"	"1995"	"Louisville, KY"	"4520"	143
+	"1995"	"1995"	"McAllen-Edinburg-Mission, TX"	"4880"	30
+	"1995"	"1995"	"Memphis, TN"	"4920"	314
+	"1995"	"1995"	"Miami, FL"	"5000"	2296
+	"1995"	"1995"	"Middlesex, NJ"	"5015"	339
+	"1995"	"1995"	"Milwaukee, WI"	"5080"	193
+	"1995"	"1995"	"Minneapolis-St Paul, MN"	"5120"	311
+	"1995"	"1995"	"Mobile, Al"	"5160"	114
+	"1995"	"1995"	"Monmouth-Ocean City, NJ"	"5190"	334
+	"1995"	"1995"	"Nashville, TN"	"5360"	270
+	"1995"	"1995"	"Nassau-Suffolk, NY"	"5380"	573
+	"1995"	"1995"	"New Haven, CT"	"5483"	915
+	"1995"	"1995"	"New Orleans, LA"	"5560"	584
+	"1995"	"1995"	"New York, NY"	"5600"	10210
+	"1995"	"1995"	"Newark, NJ"	"5640"	1650
+	"1995"	"1995"	"Norfolk, VA"	"5720"	588
+	"1995"	"1995"	"Oakland, CA"	"5775"	642
+	"1995"	"1995"	"Oklahoma City, OK"	"5880"	122
+	"1995"	"1995"	"Omaha, NE"	"5920"	78
+	"1995"	"1995"	"Orange County, CA"	"5945"	560
+	"1995"	"1995"	"Orlando, FL"	"5960"	689
+	"1995"	"1995"	"Philadelphia, PA"	"6160"	1772
+	"1995"	"1995"	"Phoenix, AZ"	"6200"	504
+	"1995"	"1995"	"Pittsburgh, PA"	"6280"	231
+	"1995"	"1995"	"Portland, OR"	"6440"	344
+	"1995"	"1995"	"Providence, RI"	"6483"	205
+	"1995"	"1995"	"Raleigh-Durham, NC"	"6640"	167
+	"1995"	"1995"	"Richmond, VA"	"6760"	285
+	"1995"	"1995"	"Riverside-S Berndino, CA"	"6780"	748
+	"1995"	"1995"	"Rochester, NY"	"6840"	298
+	"1995"	"1995"	"Sacramento, CA"	"6920"	371
+	"1995"	"1995"	"Saint Louis, MO"	"7040"	416
+	"1995"	"1995"	"Salt Lake City, UT"	"7160"	135
+	"1995"	"1995"	"San Antonio, TX"	"7240"	408
+	"1995"	"1995"	"San Diego, CA"	"7320"	1041
+	"1995"	"1995"	"San Francisco, CA"	"7360"	2073
+	"1995"	"1995"	"San Jose, CA"	"7400"	260
+	"1995"	"1995"	"San Juan, PR"	"7440"	1467
+	"1995"	"1995"	"Sarasota, FL"	"7510"	150
+	"1995"	"1995"	"Scranton, PA"	"7560"	47
+	"1995"	"1995"	"Seattle, WA"	"7600"	629
+	"1995"	"1995"	"Springfield, MA"	"8003"	182
+	"1995"	"1995"	"Stockton, CA"	"8120"	72
+	"1995"	"1995"	"Syracuse, NY"	"8160"	108
+	"1995"	"1995"	"Tacoma, WA"	"8200"	71
+	"1995"	"1995"	"Tampa-Saint Petersburg, FL"	"8280"	696
+	"1995"	"1995"	"Toledo, OH"	"8400"	36
+	"1995"	"1995"	"Tucson, AZ"	"8520"	121
+	"1995"	"1995"	"Tulsa, OK"	"8560"	92
+	"1995"	"1995"	"Vallejo-Fairfield-Napa, CA"	"8720"	143
+	"1995"	"1995"	"Ventura, CA"	"8735"	70
+	"1995"	"1995"	"Washington, DC"	"8840"	2087
+	"1995"	"1995"	"West Palm Beach, FL"	"8960"	774
+	"1995"	"1995"	"Wichita, KS"	"9040"	97
+	"1995"	"1995"	"Wilmington, DE"	"9160"	264
+	"1995"	"1995"	"Youngstown, OH"	"9320"	39
+"Total"	"1995"	"1995"			59967
+	"1996"	"1996"	"Akron, OH"	"0080"	57
+	"1996"	"1996"	"Albany-Schenectady, NY"	"0160"	175
+	"1996"	"1996"	"Albuquerque, N.M."	"0200"	114
+	"1996"	"1996"	"Allentown, PA"	"0240"	111
+	"1996"	"1996"	"Ann Arbor, MI"	"0440"	26
+	"1996"	"1996"	"Atlanta, GA"	"0520"	1610
+	"1996"	"1996"	"Austin, TX"	"0640"	272
+	"1996"	"1996"	"Bakersfield, CA"	"0680"	111
+	"1996"	"1996"	"Baltimore, MD"	"0720"	1503
+	"1996"	"1996"	"Baton Rouge, LA"	"0760"	321
+	"1996"	"1996"	"Bergen-Passaic, NJ"	"0875"	463
+	"1996"	"1996"	"Birmingham, AL"	"1000"	201
+	"1996"	"1996"	"Boston, MA"	"1123"	1058
+	"1996"	"1996"	"Buffalo, NY"	"1280"	164
+	"1996"	"1996"	"Charleston, SC"	"1440"	119
+	"1996"	"1996"	"Charlotte, NC"	"1520"	179
+	"1996"	"1996"	"Chicago, IL"	"1600"	1815
+	"1996"	"1996"	"Cincinnati, OH"	"1640"	208
+	"1996"	"1996"	"Cleveland, OH"	"1680"	295
+	"1996"	"1996"	"Colorado Springs, CO"	"1720"	44
+	"1996"	"1996"	"Columbia, SC"	"1760"	165
+	"1996"	"1996"	"Columbus, OH"	"1840"	204
+	"1996"	"1996"	"Dallas, TX"	"1920"	882
+	"1996"	"1996"	"Dayton, OH"	"2000"	130
+	"1996"	"1996"	"Daytona Beach, FL"	"2020"	82
+	"1996"	"1996"	"Denver, CO"	"2080"	390
+	"1996"	"1996"	"Detroit, MI"	"2160"	688
+	"1996"	"1996"	"El Paso, TX"	"2320"	113
+	"1996"	"1996"	"Fort Lauderdale, FL"	"2680"	1157
+	"1996"	"1996"	"Fort Wayne, IN"	"2760"	40
+	"1996"	"1996"	"Fort Worth, TX"	"2800"	232
+	"1996"	"1996"	"Fresno, CA"	"2840"	135
+	"1996"	"1996"	"Gary, IN"	"2960"	76
+	"1996"	"1996"	"Grand Rapids, MI"	"3000"	55
+	"1996"	"1996"	"Greensboro, NC"	"3120"	118
+	"1996"	"1996"	"Greenvile, SC"	"3160"	141
+	"1996"	"1996"	"Harrisburg, PA"	"3240"	85
+	"1996"	"1996"	"Hartford, CT"	"3283"	369
+	"1996"	"1996"	"Honolulu, HI"	"3320"	136
+	"1996"	"1996"	"Houston, TX"	"3360"	1682
+	"1996"	"1996"	"Indianapolis, IN"	"3480"	256
+	"1996"	"1996"	"Jacksonville, FL"	"3600"	357
+	"1996"	"1996"	"Jersey City, NJ"	"3640"	516
+	"1996"	"1996"	"Kansas City, MO"	"3760"	298
+	"1996"	"1996"	"Knoxville, TN"	"3840"	68
+	"1996"	"1996"	"Las Vegas, NV"	"4120"	346
+	"1996"	"1996"	"Little Rock, AR"	"4400"	93
+	"1996"	"1996"	"Los Angeles, CA"	"4480"	3577
+	"1996"	"1996"	"Louisville, KY"	"4520"	224
+	"1996"	"1996"	"McAllen-Edinburg-Mission, TX"	"4880"	39
+	"1996"	"1996"	"Memphis, TN"	"4920"	292
+	"1996"	"1996"	"Miami, FL"	"5000"	2007
+	"1996"	"1996"	"Middlesex, NJ"	"5015"	279
+	"1996"	"1996"	"Milwaukee, WI"	"5080"	137
+	"1996"	"1996"	"Minneapolis-St Paul, MN"	"5120"	275
+	"1996"	"1996"	"Mobile, Al"	"5160"	81
+	"1996"	"1996"	"Monmouth-Ocean City, NJ"	"5190"	239
+	"1996"	"1996"	"Nashville, TN"	"5360"	259
+	"1996"	"1996"	"Nassau-Suffolk, NY"	"5380"	632
+	"1996"	"1996"	"New Haven, CT"	"5483"	593
+	"1996"	"1996"	"New Orleans, LA"	"5560"	754
+	"1996"	"1996"	"New York, NY"	"5600"	10086
+	"1996"	"1996"	"Newark, NJ"	"5640"	1393
+	"1996"	"1996"	"Norfolk, VA"	"5720"	433
+	"1996"	"1996"	"Oakland, CA"	"5775"	622
+	"1996"	"1996"	"Oklahoma City, OK"	"5880"	115
+	"1996"	"1996"	"Omaha, NE"	"5920"	73
+	"1996"	"1996"	"Orange County, CA"	"5945"	420
+	"1996"	"1996"	"Orlando, FL"	"5960"	516
+	"1996"	"1996"	"Philadelphia, PA"	"6160"	1625
+	"1996"	"1996"	"Phoenix, AZ"	"6200"	364
+	"1996"	"1996"	"Pittsburgh, PA"	"6280"	194
+	"1996"	"1996"	"Portland, OR"	"6440"	316
+	"1996"	"1996"	"Providence, RI"	"6483"	163
+	"1996"	"1996"	"Raleigh-Durham, NC"	"6640"	158
+	"1996"	"1996"	"Richmond, VA"	"6760"	235
+	"1996"	"1996"	"Riverside-S Berndino, CA"	"6780"	638
+	"1996"	"1996"	"Rochester, NY"	"6840"	289
+	"1996"	"1996"	"Sacramento, CA"	"6920"	249
+	"1996"	"1996"	"Saint Louis, MO"	"7040"	471
+	"1996"	"1996"	"Salt Lake City, UT"	"7160"	178
+	"1996"	"1996"	"San Antonio, TX"	"7240"	378
+	"1996"	"1996"	"San Diego, CA"	"7320"	965
+	"1996"	"1996"	"San Francisco, CA"	"7360"	1521
+	"1996"	"1996"	"San Jose, CA"	"7400"	241
+	"1996"	"1996"	"San Juan, PR"	"7440"	1381
+	"1996"	"1996"	"Sarasota, FL"	"7510"	106
+	"1996"	"1996"	"Scranton, PA"	"7560"	37
+	"1996"	"1996"	"Seattle, WA"	"7600"	578
+	"1996"	"1996"	"Springfield, MA"	"8003"	195
+	"1996"	"1996"	"Stockton, CA"	"8120"	55
+	"1996"	"1996"	"Syracuse, NY"	"8160"	113
+	"1996"	"1996"	"Tacoma, WA"	"8200"	64
+	"1996"	"1996"	"Tampa-Saint Petersburg, FL"	"8280"	774
+	"1996"	"1996"	"Toledo, OH"	"8400"	77
+	"1996"	"1996"	"Tucson, AZ"	"8520"	159
+	"1996"	"1996"	"Tulsa, OK"	"8560"	86
+	"1996"	"1996"	"Vallejo-Fairfield-Napa, CA"	"8720"	119
+	"1996"	"1996"	"Ventura, CA"	"8735"	105
+	"1996"	"1996"	"Washington, DC"	"8840"	2112
+	"1996"	"1996"	"West Palm Beach, FL"	"8960"	814
+	"1996"	"1996"	"Wichita, KS"	"9040"	77
+	"1996"	"1996"	"Wilmington, DE"	"9160"	239
+	"1996"	"1996"	"Youngstown, OH"	"9320"	19
+"Total"	"1996"	"1996"			55801
+	"1997"	"1997"	"Akron, OH"	"0080"	74
+	"1997"	"1997"	"Albany-Schenectady, NY"	"0160"	215
+	"1997"	"1997"	"Albuquerque, N.M."	"0200"	100
+	"1997"	"1997"	"Allentown, PA"	"0240"	60
+	"1997"	"1997"	"Ann Arbor, MI"	"0440"	24
+	"1997"	"1997"	"Atlanta, GA"	"0520"	1157
+	"1997"	"1997"	"Austin, TX"	"0640"	239
+	"1997"	"1997"	"Bakersfield, CA"	"0680"	73
+	"1997"	"1997"	"Baltimore, MD"	"0720"	1261
+	"1997"	"1997"	"Baton Rouge, LA"	"0760"	195
+	"1997"	"1997"	"Bergen-Passaic, NJ"	"0875"	424
+	"1997"	"1997"	"Birmingham, AL"	"1000"	174
+	"1997"	"1997"	"Boston, MA"	"1123"	723
+	"1997"	"1997"	"Buffalo, NY"	"1280"	398
+	"1997"	"1997"	"Charleston, SC"	"1440"	113
+	"1997"	"1997"	"Charlotte, NC"	"1520"	142
+	"1997"	"1997"	"Chicago, IL"	"1600"	1546
+	"1997"	"1997"	"Cincinnati, OH"	"1640"	183
+	"1997"	"1997"	"Cleveland, OH"	"1680"	256
+	"1997"	"1997"	"Colorado Springs, CO"	"1720"	25
+	"1997"	"1997"	"Columbia, SC"	"1760"	152
+	"1997"	"1997"	"Columbus, OH"	"1840"	120
+	"1997"	"1997"	"Dallas, TX"	"1920"	917
+	"1997"	"1997"	"Dayton, OH"	"2000"	62
+	"1997"	"1997"	"Daytona Beach, FL"	"2020"	66
+	"1997"	"1997"	"Denver, CO"	"2080"	291
+	"1997"	"1997"	"Detroit, MI"	"2160"	535
+	"1997"	"1997"	"El Paso, TX"	"2320"	123
+	"1997"	"1997"	"Fort Lauderdale, FL"	"2680"	978
+	"1997"	"1997"	"Fort Wayne, IN"	"2760"	36
+	"1997"	"1997"	"Fort Worth, TX"	"2800"	315
+	"1997"	"1997"	"Fresno, CA"	"2840"	58
+	"1997"	"1997"	"Gary, IN"	"2960"	72
+	"1997"	"1997"	"Grand Rapids, MI"	"3000"	63
+	"1997"	"1997"	"Greensboro, NC"	"3120"	89
+	"1997"	"1997"	"Greenvile, SC"	"3160"	107
+	"1997"	"1997"	"Harrisburg, PA"	"3240"	123
+	"1997"	"1997"	"Hartford, CT"	"3283"	461
+	"1997"	"1997"	"Honolulu, HI"	"3320"	76
+	"1997"	"1997"	"Houston, TX"	"3360"	1726
+	"1997"	"1997"	"Indianapolis, IN"	"3480"	221
+	"1997"	"1997"	"Jacksonville, FL"	"3600"	336
+	"1997"	"1997"	"Jersey City, NJ"	"3640"	506
+	"1997"	"1997"	"Kansas City, MO"	"3760"	209
+	"1997"	"1997"	"Knoxville, TN"	"3840"	57
+	"1997"	"1997"	"Las Vegas, NV"	"4120"	521
+	"1997"	"1997"	"Little Rock, AR"	"4400"	93
+	"1997"	"1997"	"Los Angeles, CA"	"4480"	2556
+	"1997"	"1997"	"Louisville, KY"	"4520"	182
+	"1997"	"1997"	"McAllen-Edinburg-Mission, TX"	"4880"	27
+	"1997"	"1997"	"Memphis, TN"	"4920"	275
+	"1997"	"1997"	"Miami, FL"	"5000"	1653
+	"1997"	"1997"	"Middlesex, NJ"	"5015"	221
+	"1997"	"1997"	"Milwaukee, WI"	"5080"	153
+	"1997"	"1997"	"Minneapolis-St Paul, MN"	"5120"	180
+	"1997"	"1997"	"Mobile, Al"	"5160"	103
+	"1997"	"1997"	"Monmouth-Ocean City, NJ"	"5190"	191
+	"1997"	"1997"	"Nashville, TN"	"5360"	280
+	"1997"	"1997"	"Nassau-Suffolk, NY"	"5380"	531
+	"1997"	"1997"	"New Haven, CT"	"5483"	661
+	"1997"	"1997"	"New Orleans, LA"	"5560"	560
+	"1997"	"1997"	"New York, NY"	"5600"	9624
+	"1997"	"1997"	"Newark, NJ"	"5640"	1344
+	"1997"	"1997"	"Norfolk, VA"	"5720"	403
+	"1997"	"1997"	"Oakland, CA"	"5775"	466
+	"1997"	"1997"	"Oklahoma City, OK"	"5880"	142
+	"1997"	"1997"	"Omaha, NE"	"5920"	65
+	"1997"	"1997"	"Orange County, CA"	"5945"	269
+	"1997"	"1997"	"Orlando, FL"	"5960"	532
+	"1997"	"1997"	"Philadelphia, PA"	"6160"	1459
+	"1997"	"1997"	"Phoenix, AZ"	"6200"	275
+	"1997"	"1997"	"Pittsburgh, PA"	"6280"	135
+	"1997"	"1997"	"Portland, OR"	"6440"	236
+	"1997"	"1997"	"Providence, RI"	"6483"	131
+	"1997"	"1997"	"Raleigh-Durham, NC"	"6640"	146
+	"1997"	"1997"	"Richmond, VA"	"6760"	218
+	"1997"	"1997"	"Riverside-S Berndino, CA"	"6780"	433
+	"1997"	"1997"	"Rochester, NY"	"6840"	359
+	"1997"	"1997"	"Sacramento, CA"	"6920"	207
+	"1997"	"1997"	"Saint Louis, MO"	"7040"	310
+	"1997"	"1997"	"Salt Lake City, UT"	"7160"	124
+	"1997"	"1997"	"San Antonio, TX"	"7240"	296
+	"1997"	"1997"	"San Diego, CA"	"7320"	792
+	"1997"	"1997"	"San Francisco, CA"	"7360"	1270
+	"1997"	"1997"	"San Jose, CA"	"7400"	204
+	"1997"	"1997"	"San Juan, PR"	"7440"	1303
+	"1997"	"1997"	"Sarasota, FL"	"7510"	107
+	"1997"	"1997"	"Scranton, PA"	"7560"	39
+	"1997"	"1997"	"Seattle, WA"	"7600"	363
+	"1997"	"1997"	"Springfield, MA"	"8003"	91
+	"1997"	"1997"	"Stockton, CA"	"8120"	53
+	"1997"	"1997"	"Syracuse, NY"	"8160"	220
+	"1997"	"1997"	"Tacoma, WA"	"8200"	71
+	"1997"	"1997"	"Tampa-Saint Petersburg, FL"	"8280"	585
+	"1997"	"1997"	"Toledo, OH"	"8400"	43
+	"1997"	"1997"	"Tucson, AZ"	"8520"	121
+	"1997"	"1997"	"Tulsa, OK"	"8560"	83
+	"1997"	"1997"	"Vallejo-Fairfield-Napa, CA"	"8720"	58
+	"1997"	"1997"	"Ventura, CA"	"8735"	45
+	"1997"	"1997"	"Washington, DC"	"8840"	1757
+	"1997"	"1997"	"West Palm Beach, FL"	"8960"	603
+	"1997"	"1997"	"Wichita, KS"	"9040"	54
+	"1997"	"1997"	"Wilmington, DE"	"9160"	193
+	"1997"	"1997"	"Youngstown, OH"	"9320"	23
+"Total"	"1997"	"1997"			48520
+	"1998"	"1998"	"Akron, OH"	"0080"	54
+	"1998"	"1998"	"Albany-Schenectady, NY"	"0160"	112
+	"1998"	"1998"	"Albuquerque, N.M."	"0200"	88
+	"1998"	"1998"	"Allentown, PA"	"0240"	39
+	"1998"	"1998"	"Ann Arbor, MI"	"0440"	17
+	"1998"	"1998"	"Atlanta, GA"	"0520"	930
+	"1998"	"1998"	"Austin, TX"	"0640"	281
+	"1998"	"1998"	"Bakersfield, CA"	"0680"	78
+	"1998"	"1998"	"Baltimore, MD"	"0720"	1148
+	"1998"	"1998"	"Baton Rouge, LA"	"0760"	183
+	"1998"	"1998"	"Bergen-Passaic, NJ"	"0875"	283
+	"1998"	"1998"	"Birmingham, AL"	"1000"	137
+	"1998"	"1998"	"Boston, MA"	"1123"	787
+	"1998"	"1998"	"Buffalo, NY"	"1280"	107
+	"1998"	"1998"	"Charleston, SC"	"1440"	112
+	"1998"	"1998"	"Charlotte, NC"	"1520"	192
+	"1998"	"1998"	"Chicago, IL"	"1600"	1094
+	"1998"	"1998"	"Cincinnati, OH"	"1640"	100
+	"1998"	"1998"	"Cleveland, OH"	"1680"	241
+	"1998"	"1998"	"Colorado Springs, CO"	"1720"	19
+	"1998"	"1998"	"Columbia, SC"	"1760"	156
+	"1998"	"1998"	"Columbus, OH"	"1840"	101
+	"1998"	"1998"	"Dallas, TX"	"1920"	649
+	"1998"	"1998"	"Dayton, OH"	"2000"	55
+	"1998"	"1998"	"Daytona Beach, FL"	"2020"	54
+	"1998"	"1998"	"Denver, CO"	"2080"	233
+	"1998"	"1998"	"Detroit, MI"	"2160"	479
+	"1998"	"1998"	"El Paso, TX"	"2320"	119
+	"1998"	"1998"	"Fort Lauderdale, FL"	"2680"	809
+	"1998"	"1998"	"Fort Wayne, IN"	"2760"	23
+	"1998"	"1998"	"Fort Worth, TX"	"2800"	217
+	"1998"	"1998"	"Fresno, CA"	"2840"	65
+	"1998"	"1998"	"Gary, IN"	"2960"	52
+	"1998"	"1998"	"Grand Rapids, MI"	"3000"	49
+	"1998"	"1998"	"Greensboro, NC"	"3120"	108
+	"1998"	"1998"	"Greenvile, SC"	"3160"	123
+	"1998"	"1998"	"Harrisburg, PA"	"3240"	116
+	"1998"	"1998"	"Hartford, CT"	"3283"	248
+	"1998"	"1998"	"Honolulu, HI"	"3320"	105
+	"1998"	"1998"	"Houston, TX"	"3360"	1540
+	"1998"	"1998"	"Indianapolis, IN"	"3480"	213
+	"1998"	"1998"	"Jacksonville, FL"	"3600"	255
+	"1998"	"1998"	"Jersey City, NJ"	"3640"	318
+	"1998"	"1998"	"Kansas City, MO"	"3760"	176
+	"1998"	"1998"	"Knoxville, TN"	"3840"	74
+	"1998"	"1998"	"Las Vegas, NV"	"4120"	227
+	"1998"	"1998"	"Little Rock, AR"	"4400"	66
+	"1998"	"1998"	"Los Angeles, CA"	"4480"	1813
+	"1998"	"1998"	"Louisville, KY"	"4520"	168
+	"1998"	"1998"	"McAllen-Edinburg-Mission, TX"	"4880"	49
+	"1998"	"1998"	"Memphis, TN"	"4920"	282
+	"1998"	"1998"	"Miami, FL"	"5000"	1527
+	"1998"	"1998"	"Middlesex, NJ"	"5015"	150
+	"1998"	"1998"	"Milwaukee, WI"	"5080"	114
+	"1998"	"1998"	"Minneapolis-St Paul, MN"	"5120"	173
+	"1998"	"1998"	"Mobile, Al"	"5160"	86
+	"1998"	"1998"	"Monmouth-Ocean City, NJ"	"5190"	123
+	"1998"	"1998"	"Nashville, TN"	"5360"	187
+	"1998"	"1998"	"Nassau-Suffolk, NY"	"5380"	390
+	"1998"	"1998"	"New Haven, CT"	"5483"	351
+	"1998"	"1998"	"New Orleans, LA"	"5560"	449
+	"1998"	"1998"	"New York, NY"	"5600"	7251
+	"1998"	"1998"	"Newark, NJ"	"5640"	862
+	"1998"	"1998"	"Norfolk, VA"	"5720"	342
+	"1998"	"1998"	"Oakland, CA"	"5775"	408
+	"1998"	"1998"	"Oklahoma City, OK"	"5880"	138
+	"1998"	"1998"	"Omaha, NE"	"5920"	42
+	"1998"	"1998"	"Orange County, CA"	"5945"	335
+	"1998"	"1998"	"Orlando, FL"	"5960"	465
+	"1998"	"1998"	"Philadelphia, PA"	"6160"	1271
+	"1998"	"1998"	"Phoenix, AZ"	"6200"	459
+	"1998"	"1998"	"Pittsburgh, PA"	"6280"	120
+	"1998"	"1998"	"Portland, OR"	"6440"	158
+	"1998"	"1998"	"Providence, RI"	"6483"	123
+	"1998"	"1998"	"Raleigh-Durham, NC"	"6640"	125
+	"1998"	"1998"	"Richmond, VA"	"6760"	206
+	"1998"	"1998"	"Riverside-S Berndino, CA"	"6780"	482
+	"1998"	"1998"	"Rochester, NY"	"6840"	119
+	"1998"	"1998"	"Sacramento, CA"	"6920"	181
+	"1998"	"1998"	"Saint Louis, MO"	"7040"	194
+	"1998"	"1998"	"Salt Lake City, UT"	"7160"	113
+	"1998"	"1998"	"San Antonio, TX"	"7240"	263
+	"1998"	"1998"	"San Diego, CA"	"7320"	526
+	"1998"	"1998"	"San Francisco, CA"	"7360"	955
+	"1998"	"1998"	"San Jose, CA"	"7400"	150
+	"1998"	"1998"	"San Juan, PR"	"7440"	1057
+	"1998"	"1998"	"Sarasota, FL"	"7510"	72
+	"1998"	"1998"	"Scranton, PA"	"7560"	41
+	"1998"	"1998"	"Seattle, WA"	"7600"	274
+	"1998"	"1998"	"Springfield, MA"	"8003"	95
+	"1998"	"1998"	"Stockton, CA"	"8120"	45
+	"1998"	"1998"	"Syracuse, NY"	"8160"	59
+	"1998"	"1998"	"Tacoma, WA"	"8200"	52
+	"1998"	"1998"	"Tampa-Saint Petersburg, FL"	"8280"	528
+	"1998"	"1998"	"Toledo, OH"	"8400"	23
+	"1998"	"1998"	"Tucson, AZ"	"8520"	121
+	"1998"	"1998"	"Tulsa, OK"	"8560"	75
+	"1998"	"1998"	"Vallejo-Fairfield-Napa, CA"	"8720"	105
+	"1998"	"1998"	"Ventura, CA"	"8735"	43
+	"1998"	"1998"	"Washington, DC"	"8840"	1572
+	"1998"	"1998"	"West Palm Beach, FL"	"8960"	522
+	"1998"	"1998"	"Wichita, KS"	"9040"	38
+	"1998"	"1998"	"Wilmington, DE"	"9160"	122
+	"1998"	"1998"	"Youngstown, OH"	"9320"	29
+"Total"	"1998"	"1998"			38655
+	"1999"	"1999"	"Akron, OH"	"0080"	53
+	"1999"	"1999"	"Albany-Schenectady, NY"	"0160"	77
+	"1999"	"1999"	"Albuquerque, N.M."	"0200"	47
+	"1999"	"1999"	"Allentown, PA"	"0240"	79
+	"1999"	"1999"	"Ann Arbor, MI"	"0440"	27
+	"1999"	"1999"	"Atlanta, GA"	"0520"	1009
+	"1999"	"1999"	"Austin, TX"	"0640"	267
+	"1999"	"1999"	"Bakersfield, CA"	"0680"	81
+	"1999"	"1999"	"Baltimore, MD"	"0720"	1002
+	"1999"	"1999"	"Baton Rouge, LA"	"0760"	189
+	"1999"	"1999"	"Bergen-Passaic, NJ"	"0875"	242
+	"1999"	"1999"	"Birmingham, AL"	"1000"	137
+	"1999"	"1999"	"Boston, MA"	"1123"	1181
+	"1999"	"1999"	"Buffalo, NY"	"1280"	170
+	"1999"	"1999"	"Charleston, SC"	"1440"	115
+	"1999"	"1999"	"Charlotte, NC"	"1520"	161
+	"1999"	"1999"	"Chicago, IL"	"1600"	1336
+	"1999"	"1999"	"Cincinnati, OH"	"1640"	61
+	"1999"	"1999"	"Cleveland, OH"	"1680"	182
+	"1999"	"1999"	"Colorado Springs, CO"	"1720"	29
+	"1999"	"1999"	"Columbia, SC"	"1760"	281
+	"1999"	"1999"	"Columbus, OH"	"1840"	85
+	"1999"	"1999"	"Dallas, TX"	"1920"	624
+	"1999"	"1999"	"Dayton, OH"	"2000"	46
+	"1999"	"1999"	"Daytona Beach, FL"	"2020"	159
+	"1999"	"1999"	"Denver, CO"	"2080"	235
+	"1999"	"1999"	"Detroit, MI"	"2160"	414
+	"1999"	"1999"	"El Paso, TX"	"2320"	91
+	"1999"	"1999"	"Fort Lauderdale, FL"	"2680"	923
+	"1999"	"1999"	"Fort Wayne, IN"	"2760"	17
+	"1999"	"1999"	"Fort Worth, TX"	"2800"	131
+	"1999"	"1999"	"Fresno, CA"	"2840"	63
+	"1999"	"1999"	"Gary, IN"	"2960"	43
+	"1999"	"1999"	"Grand Rapids, MI"	"3000"	41
+	"1999"	"1999"	"Greensboro, NC"	"3120"	171
+	"1999"	"1999"	"Greenvile, SC"	"3160"	133
+	"1999"	"1999"	"Harrisburg, PA"	"3240"	72
+	"1999"	"1999"	"Hartford, CT"	"3283"	177
+	"1999"	"1999"	"Honolulu, HI"	"3320"	76
+	"1999"	"1999"	"Houston, TX"	"3360"	920
+	"1999"	"1999"	"Indianapolis, IN"	"3480"	178
+	"1999"	"1999"	"Jacksonville, FL"	"3600"	299
+	"1999"	"1999"	"Jersey City, NJ"	"3640"	245
+	"1999"	"1999"	"Kansas City, MO"	"3760"	194
+	"1999"	"1999"	"Knoxville, TN"	"3840"	46
+	"1999"	"1999"	"Las Vegas, NV"	"4120"	203
+	"1999"	"1999"	"Little Rock, AR"	"4400"	56
+	"1999"	"1999"	"Los Angeles, CA"	"4480"	2030
+	"1999"	"1999"	"Louisville, KY"	"4520"	157
+	"1999"	"1999"	"McAllen-Edinburg-Mission, TX"	"4880"	28
+	"1999"	"1999"	"Memphis, TN"	"4920"	327
+	"1999"	"1999"	"Miami, FL"	"5000"	1401
+	"1999"	"1999"	"Middlesex, NJ"	"5015"	112
+	"1999"	"1999"	"Milwaukee, WI"	"5080"	85
+	"1999"	"1999"	"Minneapolis-St Paul, MN"	"5120"	177
+	"1999"	"1999"	"Mobile, Al"	"5160"	91
+	"1999"	"1999"	"Monmouth-Ocean City, NJ"	"5190"	105
+	"1999"	"1999"	"Nashville, TN"	"5360"	228
+	"1999"	"1999"	"Nassau-Suffolk, NY"	"5380"	333
+	"1999"	"1999"	"New Haven, CT"	"5483"	343
+	"1999"	"1999"	"New Orleans, LA"	"5560"	410
+	"1999"	"1999"	"New York, NY"	"5600"	6252
+	"1999"	"1999"	"Newark, NJ"	"5640"	894
+	"1999"	"1999"	"Norfolk, VA"	"5720"	269
+	"1999"	"1999"	"Oakland, CA"	"5775"	343
+	"1999"	"1999"	"Oklahoma City, OK"	"5880"	41
+	"1999"	"1999"	"Omaha, NE"	"5920"	45
+	"1999"	"1999"	"Orange County, CA"	"5945"	256
+	"1999"	"1999"	"Orlando, FL"	"5960"	436
+	"1999"	"1999"	"Philadelphia, PA"	"6160"	1602
+	"1999"	"1999"	"Phoenix, AZ"	"6200"	671
+	"1999"	"1999"	"Pittsburgh, PA"	"6280"	90
+	"1999"	"1999"	"Portland, OR"	"6440"	161
+	"1999"	"1999"	"Providence, RI"	"6483"	96
+	"1999"	"1999"	"Raleigh-Durham, NC"	"6640"	135
+	"1999"	"1999"	"Richmond, VA"	"6760"	183
+	"1999"	"1999"	"Riverside-S Berndino, CA"	"6780"	372
+	"1999"	"1999"	"Rochester, NY"	"6840"	177
+	"1999"	"1999"	"Sacramento, CA"	"6920"	136
+	"1999"	"1999"	"Saint Louis, MO"	"7040"	300
+	"1999"	"1999"	"Salt Lake City, UT"	"7160"	126
+	"1999"	"1999"	"San Antonio, TX"	"7240"	203
+	"1999"	"1999"	"San Diego, CA"	"7320"	548
+	"1999"	"1999"	"San Francisco, CA"	"7360"	844
+	"1999"	"1999"	"San Jose, CA"	"7400"	151
+	"1999"	"1999"	"San Juan, PR"	"7440"	801
+	"1999"	"1999"	"Sarasota, FL"	"7510"	97
+	"1999"	"1999"	"Scranton, PA"	"7560"	12
+	"1999"	"1999"	"Seattle, WA"	"7600"	237
+	"1999"	"1999"	"Springfield, MA"	"8003"	175
+	"1999"	"1999"	"Stockton, CA"	"8120"	61
+	"1999"	"1999"	"Syracuse, NY"	"8160"	78
+	"1999"	"1999"	"Tacoma, WA"	"8200"	49
+	"1999"	"1999"	"Tampa-Saint Petersburg, FL"	"8280"	523
+	"1999"	"1999"	"Toledo, OH"	"8400"	21
+	"1999"	"1999"	"Tucson, AZ"	"8520"	113
+	"1999"	"1999"	"Tulsa, OK"	"8560"	69
+	"1999"	"1999"	"Vallejo-Fairfield-Napa, CA"	"8720"	108
+	"1999"	"1999"	"Ventura, CA"	"8735"	47
+	"1999"	"1999"	"Washington, DC"	"8840"	1519
+	"1999"	"1999"	"West Palm Beach, FL"	"8960"	446
+	"1999"	"1999"	"Wichita, KS"	"9040"	65
+	"1999"	"1999"	"Wilmington, DE"	"9160"	149
+	"1999"	"1999"	"Youngstown, OH"	"9320"	47
+"Total"	"1999"	"1999"			37143
+	"2000"	"2000"	"Akron, OH"	"0080"	29
+	"2000"	"2000"	"Albany-Schenectady, NY"	"0160"	110
+	"2000"	"2000"	"Albuquerque, N.M."	"0200"	72
+	"2000"	"2000"	"Allentown, PA"	"0240"	49
+	"2000"	"2000"	"Ann Arbor, MI"	"0440"	35
+	"2000"	"2000"	"Atlanta, GA"	"0520"	696
+	"2000"	"2000"	"Austin, TX"	"0640"	177
+	"2000"	"2000"	"Bakersfield, CA"	"0680"	80
+	"2000"	"2000"	"Baltimore, MD"	"0720"	962
+	"2000"	"2000"	"Baton Rouge, LA"	"0760"	143
+	"2000"	"2000"	"Bergen-Passaic, NJ"	"0875"	207
+	"2000"	"2000"	"Birmingham, AL"	"1000"	114
+	"2000"	"2000"	"Boston, MA"	"1123"	1008
+	"2000"	"2000"	"Buffalo, NY"	"1280"	77
+	"2000"	"2000"	"Charleston, SC"	"1440"	116
+	"2000"	"2000"	"Charlotte, NC"	"1520"	125
+	"2000"	"2000"	"Chicago, IL"	"1600"	1512
+	"2000"	"2000"	"Cincinnati, OH"	"1640"	74
+	"2000"	"2000"	"Cleveland, OH"	"1680"	162
+	"2000"	"2000"	"Colorado Springs, CO"	"1720"	24
+	"2000"	"2000"	"Columbia, SC"	"1760"	153
+	"2000"	"2000"	"Columbus, OH"	"1840"	116
+	"2000"	"2000"	"Dallas, TX"	"1920"	642
+	"2000"	"2000"	"Dayton, OH"	"2000"	64
+	"2000"	"2000"	"Daytona Beach, FL"	"2020"	76
+	"2000"	"2000"	"Denver, CO"	"2080"	249
+	"2000"	"2000"	"Detroit, MI"	"2160"	547
+	"2000"	"2000"	"El Paso, TX"	"2320"	78
+	"2000"	"2000"	"Fort Lauderdale, FL"	"2680"	845
+	"2000"	"2000"	"Fort Wayne, IN"	"2760"	24
+	"2000"	"2000"	"Fort Worth, TX"	"2800"	190
+	"2000"	"2000"	"Fresno, CA"	"2840"	92
+	"2000"	"2000"	"Gary, IN"	"2960"	58
+	"2000"	"2000"	"Grand Rapids, MI"	"3000"	36
+	"2000"	"2000"	"Greensboro, NC"	"3120"	95
+	"2000"	"2000"	"Greenvile, SC"	"3160"	119
+	"2000"	"2000"	"Harrisburg, PA"	"3240"	69
+	"2000"	"2000"	"Hartford, CT"	"3283"	237
+	"2000"	"2000"	"Honolulu, HI"	"3320"	83
+	"2000"	"2000"	"Houston, TX"	"3360"	681
+	"2000"	"2000"	"Indianapolis, IN"	"3480"	161
+	"2000"	"2000"	"Jacksonville, FL"	"3600"	284
+	"2000"	"2000"	"Jersey City, NJ"	"3640"	219
+	"2000"	"2000"	"Kansas City, MO"	"3760"	173
+	"2000"	"2000"	"Knoxville, TN"	"3840"	45
+	"2000"	"2000"	"Las Vegas, NV"	"4120"	247
+	"2000"	"2000"	"Little Rock, AR"	"4400"	54
+	"2000"	"2000"	"Los Angeles, CA"	"4480"	1637
+	"2000"	"2000"	"Louisville, KY"	"4520"	90
+	"2000"	"2000"	"McAllen-Edinburg-Mission, TX"	"4880"	38
+	"2000"	"2000"	"Memphis, TN"	"4920"	318
+	"2000"	"2000"	"Miami, FL"	"5000"	1296
+	"2000"	"2000"	"Middlesex, NJ"	"5015"	132
+	"2000"	"2000"	"Milwaukee, WI"	"5080"	132
+	"2000"	"2000"	"Minneapolis-St Paul, MN"	"5120"	169
+	"2000"	"2000"	"Mobile, Al"	"5160"	98
+	"2000"	"2000"	"Monmouth-Ocean City, NJ"	"5190"	128
+	"2000"	"2000"	"Nashville, TN"	"5360"	327
+	"2000"	"2000"	"Nassau-Suffolk, NY"	"5380"	234
+	"2000"	"2000"	"New Haven, CT"	"5483"	310
+	"2000"	"2000"	"New Orleans, LA"	"5560"	317
+	"2000"	"2000"	"New York, NY"	"5600"	5380
+	"2000"	"2000"	"Newark, NJ"	"5640"	764
+	"2000"	"2000"	"Norfolk, VA"	"5720"	267
+	"2000"	"2000"	"Oakland, CA"	"5775"	266
+	"2000"	"2000"	"Oklahoma City, OK"	"5880"	205
+	"2000"	"2000"	"Omaha, NE"	"5920"	53
+	"2000"	"2000"	"Orange County, CA"	"5945"	284
+	"2000"	"2000"	"Orlando, FL"	"5960"	349
+	"2000"	"2000"	"Philadelphia, PA"	"6160"	1338
+	"2000"	"2000"	"Phoenix, AZ"	"6200"	291
+	"2000"	"2000"	"Pittsburgh, PA"	"6280"	105
+	"2000"	"2000"	"Portland, OR"	"6440"	174
+	"2000"	"2000"	"Providence, RI"	"6483"	94
+	"2000"	"2000"	"Raleigh-Durham, NC"	"6640"	144
+	"2000"	"2000"	"Richmond, VA"	"6760"	165
+	"2000"	"2000"	"Riverside-S Berndino, CA"	"6780"	392
+	"2000"	"2000"	"Rochester, NY"	"6840"	74
+	"2000"	"2000"	"Sacramento, CA"	"6920"	170
+	"2000"	"2000"	"Saint Louis, MO"	"7040"	244
+	"2000"	"2000"	"Salt Lake City, UT"	"7160"	132
+	"2000"	"2000"	"San Antonio, TX"	"7240"	167
+	"2000"	"2000"	"San Diego, CA"	"7320"	437
+	"2000"	"2000"	"San Francisco, CA"	"7360"	752
+	"2000"	"2000"	"San Jose, CA"	"7400"	110
+	"2000"	"2000"	"San Juan, PR"	"7440"	870
+	"2000"	"2000"	"Sarasota, FL"	"7510"	129
+	"2000"	"2000"	"Scranton, PA"	"7560"	19
+	"2000"	"2000"	"Seattle, WA"	"7600"	283
+	"2000"	"2000"	"Springfield, MA"	"8003"	146
+	"2000"	"2000"	"Stockton, CA"	"8120"	37
+	"2000"	"2000"	"Syracuse, NY"	"8160"	87
+	"2000"	"2000"	"Tacoma, WA"	"8200"	57
+	"2000"	"2000"	"Tampa-Saint Petersburg, FL"	"8280"	454
+	"2000"	"2000"	"Toledo, OH"	"8400"	31
+	"2000"	"2000"	"Tucson, AZ"	"8520"	73
+	"2000"	"2000"	"Tulsa, OK"	"8560"	71
+	"2000"	"2000"	"Vallejo-Fairfield-Napa, CA"	"8720"	63
+	"2000"	"2000"	"Ventura, CA"	"8735"	41
+	"2000"	"2000"	"Washington, DC"	"8840"	1534
+	"2000"	"2000"	"West Palm Beach, FL"	"8960"	529
+	"2000"	"2000"	"Wichita, KS"	"9040"	45
+	"2000"	"2000"	"Wilmington, DE"	"9160"	173
+	"2000"	"2000"	"Youngstown, OH"	"9320"	18
+"Total"	"2000"	"2000"			33652
+	"2001"	"2001"	"Akron, OH"	"0080"	22
+	"2001"	"2001"	"Albany-Schenectady, NY"	"0160"	82
+	"2001"	"2001"	"Albuquerque, N.M."	"0200"	63
+	"2001"	"2001"	"Allentown, PA"	"0240"	80
+	"2001"	"2001"	"Ann Arbor, MI"	"0440"	14
+	"2001"	"2001"	"Atlanta, GA"	"0520"	1288
+	"2001"	"2001"	"Austin, TX"	"0640"	200
+	"2001"	"2001"	"Bakersfield, CA"	"0680"	107
+	"2001"	"2001"	"Baltimore, MD"	"0720"	1273
+	"2001"	"2001"	"Baton Rouge, LA"	"0760"	219
+	"2001"	"2001"	"Bergen-Passaic, NJ"	"0875"	186
+	"2001"	"2001"	"Birmingham, AL"	"1000"	109
+	"2001"	"2001"	"Boston, MA"	"1123"	636
+	"2001"	"2001"	"Buffalo, NY"	"1280"	148
+	"2001"	"2001"	"Charleston, SC"	"1440"	53
+	"2001"	"2001"	"Charlotte, NC"	"1520"	171
+	"2001"	"2001"	"Chicago, IL"	"1600"	1050
+	"2001"	"2001"	"Cincinnati, OH"	"1640"	40
+	"2001"	"2001"	"Cleveland, OH"	"1680"	209
+	"2001"	"2001"	"Colorado Springs, CO"	"1720"	20
+	"2001"	"2001"	"Columbia, SC"	"1760"	172
+	"2001"	"2001"	"Columbus, OH"	"1840"	101
+	"2001"	"2001"	"Dallas, TX"	"1920"	741
+	"2001"	"2001"	"Dayton, OH"	"2000"	60
+	"2001"	"2001"	"Daytona Beach, FL"	"2020"	103
+	"2001"	"2001"	"Denver, CO"	"2080"	214
+	"2001"	"2001"	"Detroit, MI"	"2160"	390
+	"2001"	"2001"	"El Paso, TX"	"2320"	113
+	"2001"	"2001"	"Fort Lauderdale, FL"	"2680"	678
+	"2001"	"2001"	"Fort Wayne, IN"	"2760"	22
+	"2001"	"2001"	"Fort Worth, TX"	"2800"	131
+	"2001"	"2001"	"Fresno, CA"	"2840"	55
+	"2001"	"2001"	"Gary, IN"	"2960"	52
+	"2001"	"2001"	"Grand Rapids, MI"	"3000"	42
+	"2001"	"2001"	"Greensboro, NC"	"3120"	122
+	"2001"	"2001"	"Greenvile, SC"	"3160"	104
+	"2001"	"2001"	"Harrisburg, PA"	"3240"	122
+	"2001"	"2001"	"Hartford, CT"	"3283"	194
+	"2001"	"2001"	"Honolulu, HI"	"3320"	58
+	"2001"	"2001"	"Houston, TX"	"3360"	799
+	"2001"	"2001"	"Indianapolis, IN"	"3480"	170
+	"2001"	"2001"	"Jacksonville, FL"	"3600"	306
+	"2001"	"2001"	"Jersey City, NJ"	"3640"	249
+	"2001"	"2001"	"Kansas City, MO"	"3760"	154
+	"2001"	"2001"	"Knoxville, TN"	"3840"	33
+	"2001"	"2001"	"Las Vegas, NV"	"4120"	216
+	"2001"	"2001"	"Little Rock, AR"	"4400"	79
+	"2001"	"2001"	"Los Angeles, CA"	"4480"	1361
+	"2001"	"2001"	"Louisville, KY"	"4520"	150
+	"2001"	"2001"	"McAllen-Edinburg-Mission, TX"	"4880"	49
+	"2001"	"2001"	"Memphis, TN"	"4920"	257
+	"2001"	"2001"	"Miami, FL"	"5000"	1210
+	"2001"	"2001"	"Middlesex, NJ"	"5015"	144
+	"2001"	"2001"	"Milwaukee, WI"	"5080"	112
+	"2001"	"2001"	"Minneapolis-St Paul, MN"	"5120"	133
+	"2001"	"2001"	"Mobile, Al"	"5160"	84
+	"2001"	"2001"	"Monmouth-Ocean City, NJ"	"5190"	126
+	"2001"	"2001"	"Nashville, TN"	"5360"	172
+	"2001"	"2001"	"Nassau-Suffolk, NY"	"5380"	340
+	"2001"	"2001"	"New Haven, CT"	"5483"	347
+	"2001"	"2001"	"New Orleans, LA"	"5560"	308
+	"2001"	"2001"	"New York, NY"	"5600"	6224
+	"2001"	"2001"	"Newark, NJ"	"5640"	697
+	"2001"	"2001"	"Norfolk, VA"	"5720"	325
+	"2001"	"2001"	"Oakland, CA"	"5775"	323
+	"2001"	"2001"	"Oklahoma City, OK"	"5880"	120
+	"2001"	"2001"	"Omaha, NE"	"5920"	53
+	"2001"	"2001"	"Orange County, CA"	"5945"	295
+	"2001"	"2001"	"Orlando, FL"	"5960"	512
+	"2001"	"2001"	"Philadelphia, PA"	"6160"	1335
+	"2001"	"2001"	"Phoenix, AZ"	"6200"	366
+	"2001"	"2001"	"Pittsburgh, PA"	"6280"	142
+	"2001"	"2001"	"Portland, OR"	"6440"	220
+	"2001"	"2001"	"Providence, RI"	"6483"	95
+	"2001"	"2001"	"Raleigh-Durham, NC"	"6640"	155
+	"2001"	"2001"	"Richmond, VA"	"6760"	124
+	"2001"	"2001"	"Riverside-S Berndino, CA"	"6780"	388
+	"2001"	"2001"	"Rochester, NY"	"6840"	130
+	"2001"	"2001"	"Sacramento, CA"	"6920"	127
+	"2001"	"2001"	"Saint Louis, MO"	"7040"	279
+	"2001"	"2001"	"Salt Lake City, UT"	"7160"	108
+	"2001"	"2001"	"San Antonio, TX"	"7240"	195
+	"2001"	"2001"	"San Diego, CA"	"7320"	471
+	"2001"	"2001"	"San Francisco, CA"	"7360"	595
+	"2001"	"2001"	"San Jose, CA"	"7400"	120
+	"2001"	"2001"	"San Juan, PR"	"7440"	700
+	"2001"	"2001"	"Sarasota, FL"	"7510"	134
+	"2001"	"2001"	"Scranton, PA"	"7560"	13
+	"2001"	"2001"	"Seattle, WA"	"7600"	343
+	"2001"	"2001"	"Springfield, MA"	"8003"	90
+	"2001"	"2001"	"Stockton, CA"	"8120"	26
+	"2001"	"2001"	"Syracuse, NY"	"8160"	85
+	"2001"	"2001"	"Tacoma, WA"	"8200"	66
+	"2001"	"2001"	"Tampa-Saint Petersburg, FL"	"8280"	596
+	"2001"	"2001"	"Toledo, OH"	"8400"	41
+	"2001"	"2001"	"Tucson, AZ"	"8520"	119
+	"2001"	"2001"	"Tulsa, OK"	"8560"	71
+	"2001"	"2001"	"Vallejo-Fairfield-Napa, CA"	"8720"	85
+	"2001"	"2001"	"Ventura, CA"	"8735"	33
+	"2001"	"2001"	"Washington, DC"	"8840"	1641
+	"2001"	"2001"	"West Palm Beach, FL"	"8960"	449
+	"2001"	"2001"	"Wichita, KS"	"9040"	18
+	"2001"	"2001"	"Wilmington, DE"	"9160"	196
+	"2001"	"2001"	"Youngstown, OH"	"9320"	27
+"Total"	"2001"	"2001"			34375
+	"2002"	"2002"	"Akron, OH"	"0080"	29
+	"2002"	"2002"	"Albany-Schenectady, NY"	"0160"	88
+	"2002"	"2002"	"Albuquerque, N.M."	"0200"	42
+	"2002"	"2002"	"Allentown, PA"	"0240"	59
+	"2002"	"2002"	"Ann Arbor, MI"	"0440"	18
+	"2002"	"2002"	"Atlanta, GA"	"0520"	1011
+	"2002"	"2002"	"Austin, TX"	"0640"	215
+	"2002"	"2002"	"Bakersfield, CA"	"0680"	133
+	"2002"	"2002"	"Baltimore, MD"	"0720"	1263
+	"2002"	"2002"	"Baton Rouge, LA"	"0760"	303
+	"2002"	"2002"	"Bergen-Passaic, NJ"	"0875"	136
+	"2002"	"2002"	"Birmingham, AL"	"1000"	114
+	"2002"	"2002"	"Boston, MA"	"1123"	721
+	"2002"	"2002"	"Buffalo, NY"	"1280"	75
+	"2002"	"2002"	"Charleston, SC"	"1440"	139
+	"2002"	"2002"	"Charlotte, NC"	"1520"	224
+	"2002"	"2002"	"Chicago, IL"	"1600"	1846
+	"2002"	"2002"	"Cincinnati, OH"	"1640"	240
+	"2002"	"2002"	"Cleveland, OH"	"1680"	171
+	"2002"	"2002"	"Colorado Springs, CO"	"1720"	25
+	"2002"	"2002"	"Columbia, SC"	"1760"	207
+	"2002"	"2002"	"Columbus, OH"	"1840"	154
+	"2002"	"2002"	"Dallas, TX"	"1920"	767
+	"2002"	"2002"	"Dayton, OH"	"2000"	46
+	"2002"	"2002"	"Daytona Beach, FL"	"2020"	116
+	"2002"	"2002"	"Denver, CO"	"2080"	233
+	"2002"	"2002"	"Detroit, MI"	"2160"	574
+	"2002"	"2002"	"El Paso, TX"	"2320"	81
+	"2002"	"2002"	"Fort Lauderdale, FL"	"2680"	750
+	"2002"	"2002"	"Fort Wayne, IN"	"2760"	32
+	"2002"	"2002"	"Fort Worth, TX"	"2800"	183
+	"2002"	"2002"	"Fresno, CA"	"2840"	104
+	"2002"	"2002"	"Gary, IN"	"2960"	61
+	"2002"	"2002"	"Grand Rapids, MI"	"3000"	52
+	"2002"	"2002"	"Greensboro, NC"	"3120"	119
+	"2002"	"2002"	"Greenvile, SC"	"3160"	78
+	"2002"	"2002"	"Harrisburg, PA"	"3240"	63
+	"2002"	"2002"	"Hartford, CT"	"3283"	201
+	"2002"	"2002"	"Honolulu, HI"	"3320"	83
+	"2002"	"2002"	"Houston, TX"	"3360"	978
+	"2002"	"2002"	"Indianapolis, IN"	"3480"	273
+	"2002"	"2002"	"Jacksonville, FL"	"3600"	276
+	"2002"	"2002"	"Jersey City, NJ"	"3640"	187
+	"2002"	"2002"	"Kansas City, MO"	"3760"	123
+	"2002"	"2002"	"Knoxville, TN"	"3840"	47
+	"2002"	"2002"	"Las Vegas, NV"	"4120"	285
+	"2002"	"2002"	"Little Rock, AR"	"4400"	88
+	"2002"	"2002"	"Los Angeles, CA"	"4480"	1594
+	"2002"	"2002"	"Louisville, KY"	"4520"	135
+	"2002"	"2002"	"McAllen-Edinburg-Mission, TX"	"4880"	44
+	"2002"	"2002"	"Memphis, TN"	"4920"	401
+	"2002"	"2002"	"Miami, FL"	"5000"	1146
+	"2002"	"2002"	"Middlesex, NJ"	"5015"	138
+	"2002"	"2002"	"Milwaukee, WI"	"5080"	111
+	"2002"	"2002"	"Minneapolis-St Paul, MN"	"5120"	138
+	"2002"	"2002"	"Mobile, Al"	"5160"	81
+	"2002"	"2002"	"Monmouth-Ocean City, NJ"	"5190"	96
+	"2002"	"2002"	"Nashville, TN"	"5360"	208
+	"2002"	"2002"	"Nassau-Suffolk, NY"	"5380"	234
+	"2002"	"2002"	"New Haven, CT"	"5483"	362
+	"2002"	"2002"	"New Orleans, LA"	"5560"	519
+	"2002"	"2002"	"New York, NY"	"5600"	5662
+	"2002"	"2002"	"Newark, NJ"	"5640"	565
+	"2002"	"2002"	"Norfolk, VA"	"5720"	293
+	"2002"	"2002"	"Oakland, CA"	"5775"	287
+	"2002"	"2002"	"Oklahoma City, OK"	"5880"	104
+	"2002"	"2002"	"Omaha, NE"	"5920"	51
+	"2002"	"2002"	"Orange County, CA"	"5945"	243
+	"2002"	"2002"	"Orlando, FL"	"5960"	541
+	"2002"	"2002"	"Philadelphia, PA"	"6160"	1423
+	"2002"	"2002"	"Phoenix, AZ"	"6200"	512
+	"2002"	"2002"	"Pittsburgh, PA"	"6280"	143
+	"2002"	"2002"	"Portland, OR"	"6440"	223
+	"2002"	"2002"	"Providence, RI"	"6483"	98
+	"2002"	"2002"	"Raleigh-Durham, NC"	"6640"	214
+	"2002"	"2002"	"Richmond, VA"	"6760"	98
+	"2002"	"2002"	"Riverside-S Berndino, CA"	"6780"	296
+	"2002"	"2002"	"Rochester, NY"	"6840"	180
+	"2002"	"2002"	"Sacramento, CA"	"6920"	103
+	"2002"	"2002"	"Saint Louis, MO"	"7040"	224
+	"2002"	"2002"	"Salt Lake City, UT"	"7160"	76
+	"2002"	"2002"	"San Antonio, TX"	"7240"	205
+	"2002"	"2002"	"San Diego, CA"	"7320"	468
+	"2002"	"2002"	"San Francisco, CA"	"7360"	559
+	"2002"	"2002"	"San Jose, CA"	"7400"	124
+	"2002"	"2002"	"San Juan, PR"	"7440"	703
+	"2002"	"2002"	"Sarasota, FL"	"7510"	103
+	"2002"	"2002"	"Scranton, PA"	"7560"	26
+	"2002"	"2002"	"Seattle, WA"	"7600"	320
+	"2002"	"2002"	"Springfield, MA"	"8003"	80
+	"2002"	"2002"	"Stockton, CA"	"8120"	81
+	"2002"	"2002"	"Syracuse, NY"	"8160"	70
+	"2002"	"2002"	"Tacoma, WA"	"8200"	32
+	"2002"	"2002"	"Tampa-Saint Petersburg, FL"	"8280"	510
+	"2002"	"2002"	"Toledo, OH"	"8400"	57
+	"2002"	"2002"	"Tucson, AZ"	"8520"	69
+	"2002"	"2002"	"Tulsa, OK"	"8560"	51
+	"2002"	"2002"	"Vallejo-Fairfield-Napa, CA"	"8720"	56
+	"2002"	"2002"	"Ventura, CA"	"8735"	39
+	"2002"	"2002"	"Washington, DC"	"8840"	1825
+	"2002"	"2002"	"West Palm Beach, FL"	"8960"	561
+	"2002"	"2002"	"Wichita, KS"	"9040"	21
+	"2002"	"2002"	"Wilmington, DE"	"9160"	154
+	"2002"	"2002"	"Youngstown, OH"	"9320"	24
+"Total"	"2002"	"2002"			35694
+"Total"					685899
+"---"
+"Dataset: AIDS Public Use (Vintage 2002)"
+"Query Parameters:"
+"Date Reported: 1987; 1988; 1989; 1990; 1991; 1992; 1993; 1994; 1995; 1996; 1997; 1998; 1999; 2000; 2001; 2002"
+"Location: Akron, OH; Albany-Schenectady, NY; Albuquerque, N.M.; Allentown, PA; Ann Arbor, MI; Atlanta, GA; Austin, TX;"
+"Bakersfield, CA; Baltimore, MD; Baton Rouge, LA; Bergen-Passaic, NJ; Birmingham, AL; Boston, MA; Buffalo, NY; Charleston, SC;"
+"Charlotte, NC; Chicago, IL; Cincinnati, OH; Cleveland, OH; Colorado Springs, CO; Columbia, SC; Columbus, OH; Dallas, TX; Dayton,"
+"OH; Daytona Beach, FL; Denver, CO; Detroit, MI; El Paso, TX; Fort Lauderdale, FL; Fort Wayne, IN; Fort Worth, TX; Fresno, CA;"
+"Gary, IN; Grand Rapids, MI; Greensboro, NC; Greenvile, SC; Harrisburg, PA; Hartford, CT; Honolulu, HI; Houston, TX;"
+"Indianapolis, IN; Jacksonville, FL; Jersey City, NJ; Kansas City, MO; Knoxville, TN; Las Vegas, NV; Little Rock, AR; Los"
+"Angeles, CA; Louisville, KY; McAllen-Edinburg-Mission, TX; Memphis, TN; Miami, FL; Middlesex, NJ; Milwaukee, WI; Minneapolis-St"
+"Paul, MN; Mobile, Al; Monmouth-Ocean City, NJ; Nashville, TN; Nassau-Suffolk, NY; New Haven, CT; New Orleans, LA; New York, NY;"
+"Newark, NJ; Norfolk, VA; Oakland, CA; Oklahoma City, OK; Omaha, NE; Orange County, CA; Orlando, FL; Philadelphia, PA; Phoenix,"
+"AZ; Pittsburgh, PA; Portland, OR; Providence, RI; Raleigh-Durham, NC; Richmond, VA; Riverside-S Berndino, CA; Rochester, NY;"
+"Sacramento, CA; Saint Louis, MO; Salt Lake City, UT; San Antonio, TX; San Diego, CA; San Francisco, CA; San Jose, CA; San Juan,"
+"PR; Sarasota, FL; Scranton, PA; Seattle, WA; Springfield, MA; Stockton, CA; Syracuse, NY; Tacoma, WA; Tampa-Saint Petersburg,"
+"FL; Toledo, OH; Tucson, AZ; Tulsa, OK; Vallejo-Fairfield-Napa, CA; Ventura, CA; Washington, DC; West Palm Beach, FL; Wichita,"
+"KS; Wilmington, DE; Youngstown, OH"
+"Group By: Year Reported; Location"
+"Show Totals: True"
+"Show Zero Values: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/aids.html for more information."
+"---"
+"Query Date: Oct 21, 2022 3:32:28 PM"
+"---"
+"Suggested Citation: US Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention (CDC),"
+"National Center for HIV, STD and TB Prevention (NCHSTP), AIDS Public Information Data Set (APIDS) US Surveillance Data for"
+"1981-2002, CDC WONDER On-line Database, December 2005. Accessed at http://wonder.cdc.gov/aids-v2002.html on Oct 21, 2022 3:32:28"
+"PM"
+"---"
+Caveats:
+"1. About Metropolitan areas and Regions: Metropolitan area of residence at the time of diagnosis of AIDS is identified for"
+"adult/adolescent patients residing in MSAs with 500,000 or more population. For adult/adolescent patients residing in an MSA"
+"with less than 500,000 population, in a non-metropolitan area, or whose metropolitan area of residence is unknown, and for all"
+"pediatric patients, Region of residence is identified."
+"2. Only the metropolitan areas are displayed on the maps. Although regions are not displayed on the maps, regional data are"
+"included in the quantile distributions when regions are included in the data results."
