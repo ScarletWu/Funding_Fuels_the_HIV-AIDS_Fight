@@ -1,7 +1,7 @@
 # Funding_Fuels_the_HIV-AIDS_Fight
 
 ## Overview
-This repo replicated data from "Evidence and Lessons on the Health Impacts of Public Health Funding from the Fight against HIV/AIDS". This study explores the effectiveness of the Ryan White CARE Act in the US government's fight against HIV/AIDS, a major public health challenge. By examining the federal funding allocated to combat the disease, the research assesses how these financial efforts have contributed to addressing the crisis and highlights the role of funding disparities in shaping the national response to HIV/AIDS.
+This repo replicated data from "Evidence and Lessons on the Health Impacts of Public Health Funding from the Fight against HIV/AIDS". This study explores the effectiveness of the Ryan White CARE Act in the US government's fight against HIV/AIDS. By examining the federal funding allocated to combat the disease, the research assesses how these financial efforts have contributed to addressing the crisis and highlights the role of funding disparities in shaping the national response to HIV/AIDS.
 
 
 ## LLM Usage
